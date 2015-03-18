@@ -4,3 +4,4 @@
 .gitignore /*
 .gitignore~
 caches
+caches/error_log.php
