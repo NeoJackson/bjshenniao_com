@@ -1333,8 +1333,10 @@
 .oneleftdiv1 dl {width:400px;margin:5px 0;position:relative;left:20px;}
 .oneleftdiv1 dl dt {margin-bottom:5px;}
 .oneleftdiv1 dl dt a {color:#0171bd;font-size:18px;font-weight:bold;}
-.oneleftdiv1 dl dd {text-indent:2em;}
-.oneleftdiv1 dl dd a {color:#656565;font-size:13px;line-height:25px;}
+.oneleftdiv1 dl dd h2 {height:35px;line-height:40px;text-indent:2em;}
+.oneleftdiv1 dl dd h2 a {font-size:16px;}
+.oneleftdiv1 dl dd p {line-height:20px;text-indent:2em;width:400px;margin:0 auto;}
+.oneleftdiv1 dl dd a {color:#656565;font-size:13px;}
 
 .ztzfyb_onemiddle {width:230px;height:370px;float:left;border:1px solid #d4d4d4;margin-top:30px;margin-right:10px;text-align:center;}
 .ztzfyb_onemiddle h3 {color:#0171bd;font-size:18px;font-weight:bold;font-family:"Microsoft YaHei";position:relative;top:-10px;left:50px;z-index:10;background:#fff;width:120px;text-align:center;}
@@ -1390,7 +1392,7 @@
 
 
 
-.ztzfyb_contThree {width:1000px;height:600px;margin:0 auto;position:relative;top:-40px;}
+.ztzfyb_contThree {width:1000px;height:550px;margin:0 auto;position:relative;top:-40px;}
 
 .contThreeLeft {width:560px;float:left;}
 .threeNavleft {width:560px;height:50px;border-bottom:1px solid #d4d4d4;}
@@ -1420,13 +1422,50 @@
 
 
 
+
 .contThreeRight {width:380px;float:right;}
+.threeNavRight {width:380px;height:50px;line-height:50px;}
+.threeNavRight h3 {color:#010101;font-size:18px;font-weight:bold;font-family:"Microsoft YaHei";}
+.threeRightul {width:380px;height:30px;border-top:1px solid #d4d4d4;border-bottom:1px solid #d4d4d4;}
+.threeRightul li {width:96px;height:30px;text-aligin:center;float:left;line-height:30px;margin:0 20px;cursor:pointer;}
+.activeThreeulli {background:url('/statics/images/zhifa_cn_images/wwfff_07.jpg') no-repeat center bottom;width:96px;height:30px;text-align:center;padding-bottom:5px;}
+
+.threeRightol {margin-top:10px;}
+.threeRightol ol {display:none;}
+.threeRightol1 {margin-left:30px;height:280px;}
+.threeRightol1 li {list-style-type: decimal;width:380px;height:25px;line-height:25px;}
+.threeRightol1 li a {color:#010101;font-size:14px;font-weight:normal;}
+.threeRightol2 {margin-left:30px;height:280px;}
+.threeRightol2 li {list-style-type: decimal;width:380px;height:25px;line-height:25px;}
+.threeRightol2 li a {color:#010101;font-size:14px;font-weight:normal;}
+
+.threeRightul2 {width:400px;height:120px;position:relative;}
+.threeRightul2 li {float:left;margin:1px;padding:2px;}
+.threeRightul2 li a {float:left;margin:1px;font-size:14px;}
+.Rightul2li1 {width:220px;height:85px;line-height:85px;text-align:center;overflow:hidden;background:#00a3e2;}
+.Rightul2li1 a {color:#025778;}
+.Rightul2li2 {width:155px;height:30px;line-height:30px;text-align:center;overflow:hidden;background:#ffc64d;}
+.Rightul2li2 a {color:#8a5e00;}
+.Rightul2li3 {width:220px;height:30px;line-height:30px;text-align:center;overflow:hidden;background:#74e4aa;}
+.Rightul2li3 a {color:#019649;}
+.Rightul2li4 {width:155px;height:85px;line-height:85px;text-align:center;overflow:hidden;background:#fda08e;position:absolute;top:36px;right:13px;}
+.Rightul2li4 a {color:#b2422d;}
 
 
 
 
+.ztzfyb_contFour {width:1000px;height:500px;margin:0 auto;position:relative;top:-70px;}
+.contFourNavleft {width:1000px;height:50px;border-bottom:1px solid #d4d4d4;margin-bottom:30px;}
+.contFourNavleft h3 {float:left;margin-left:20px;height:50px;line-height:50px;font-size:24px;font-family:"Microsoft YaHei";font-weight:bold;color:#222222;}
+.contFourNavleft p {float:left;height:50px;line-height:60px;color:#008ed9;font-size:18px;margin:0 20px;}
+.contFourNavleft p a {color:#000000;font-size:12px;}
 
 
+.ztzfyb_contFive {width:1000px;height:350px;margin:0 auto;position:relative;}
+.ztzfyb_contFive h3 {width:760px;margin:0 auto;text-align:center;color:#010101;font-size:18px;height:50px;line-height:50px;font-family:"Microsoft YaHei";}
+.ztzfyb_contFive p {width:745px;margin:0 auto;color:#727171;font-size:13px;line-height:25px;text-indent:2em;font-weight:normal;}
+.ztzfyb_contFive ul {width:760px;margin:20px auto;}
+.ztzfyb_contFive ul li {width:250px;height:30px;line-height:30px;color:#0764c4;font-size:14px;font-weight:normal;float:left;}
 
 
 

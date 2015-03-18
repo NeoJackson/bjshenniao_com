@@ -35,29 +35,24 @@
             <dl>
                 <dt><a href="#" title="北京雍禾">北京雍禾</a></dt>
                 <dd>
-                    <a href="#" title="#">您对植发了解吗？植发手术是不是很恐怖？疼吗？很多人对植发手术并不了解，总觉得手术室是一个神秘的地方，只有医生、……</a>&nbsp;&nbsp;
-                    <a href="#" title="更多"><img src="/statics/images/zhifa_cn_images/wwfff_03.jpg" width="13" height="13" alt="更多" /></a>
+                    <h2><a href="#" title="#">您对植发了解吗？植发手术是不是很恐怖？疼吗？</a></h2>
+                    <p><a href="#" title="#">您对植发了解吗？植发手术是不是很恐怖？疼吗？很多人对植发手术并不了解，总觉得手术室是一个神秘的地方，只有医生、……</a>&nbsp;&nbsp;
+                        <a href="#" title="更多"><img src="/statics/images/zhifa_cn_images/wwfff_03.jpg" width="13" height="13" alt="更多" /></a></p>
                 </dd>
-            </dl>
-            <dl>
-                <dt><a href="#" title="深圳雍禾">深圳雍禾</a></dt>
                 <dd>
-                    <a href="#" title="#">您对植发了解吗？植发手术是不是很恐怖？疼吗？很多人对植发手术并不了解，总觉得手术室是一个神秘的地方，只有医生、……</a>&nbsp;&nbsp;
-                    <a href="#" title="更多"><img src="/statics/images/zhifa_cn_images/wwfff_03.jpg" width="13" height="13" alt="更多" /></a>
+                    <h2><a href="#" title="#">您对植发了解吗？植发手术是不是很恐怖？疼吗？</a></h2>
+                    <p><a href="#" title="#">您对植发了解吗？植发手术是不是很恐怖？疼吗？很多人对植发手术并不了解，总觉得手术室是一个神秘的地方，只有医生、……</a>&nbsp;&nbsp;
+                        <a href="#" title="更多"><img src="/statics/images/zhifa_cn_images/wwfff_03.jpg" width="13" height="13" alt="更多" /></a></p>
                 </dd>
-            </dl>
-            <dl>
-                <dt><a href="#" title="广州雍禾">广州雍禾</a></dt>
                 <dd>
-                    <a href="#" title="#">您对植发了解吗？植发手术是不是很恐怖？疼吗？很多人对植发手术并不了解，总觉得手术室是一个神秘的地方，只有医生、……</a>&nbsp;&nbsp;
-                    <a href="#" title="更多"><img src="/statics/images/zhifa_cn_images/wwfff_03.jpg" width="13" height="13" alt="更多" /></a>
+                    <h2><a href="#" title="#">您对植发了解吗？植发手术是不是很恐怖？疼吗？</a></h2>
+                    <p><a href="#" title="#">您对植发了解吗？植发手术是不是很恐怖？疼吗？很多人对植发手术并不了解，总觉得手术室是一个神秘的地方，只有医生、……</a>&nbsp;&nbsp;
+                        <a href="#" title="更多"><img src="/statics/images/zhifa_cn_images/wwfff_03.jpg" width="13" height="13" alt="更多" /></a></p>
                 </dd>
-            </dl>
-            <dl>
-                <dt><a href="#" title="上海雍禾">上海雍禾</a></dt>
                 <dd>
-                    <a href="#" title="#">您对植发了解吗？植发手术是不是很恐怖？疼吗？很多人对植发手术并不了解，总觉得手术室是一个神秘的地方，只有医生、……</a>&nbsp;&nbsp;
-                    <a href="#" title="更多"><img src="/statics/images/zhifa_cn_images/wwfff_03.jpg" width="13" height="13" alt="更多" /></a>
+                    <h2><a href="#" title="#">您对植发了解吗？植发手术是不是很恐怖？疼吗？</a></h2>
+                    <p><a href="#" title="#">您对植发了解吗？植发手术是不是很恐怖？疼吗？很多人对植发手术并不了解，总觉得手术室是一个神秘的地方，只有医生、……</a>&nbsp;&nbsp;
+                        <a href="#" title="更多"><img src="/statics/images/zhifa_cn_images/wwfff_03.jpg" width="13" height="13" alt="更多" /></a></p>
                 </dd>
             </dl>
         </div>
@@ -106,7 +101,12 @@
     </div>
     <div class="ztzfyb_twoDiv">
         <div class="twoDiv_top">
-            <a href="#" title="#"><img src="/statics/images/zhifa_cn_images/afafafaf_03.jpg" width="678" height="280" alt="#" class="twoDivtopimg" /></a>
+            <div class="twoDivtopimg">
+                <a href="#" title="#"><img src="/statics/images/zhifa_cn_images/gsssg_13.jpg" width="225" height="280" alt="#" /></a>
+                <a href="#" title="#"><img src="/statics/images/zhifa_cn_images/gsssg_15.jpg" width="225" height="280" alt="#" /></a>
+                <a href="#" title="#"><img src="/statics/images/zhifa_cn_images/gsssg_17.jpg" width="225" height="280" alt="#" /></a>
+            </div>
+
             <p class="twodivtopp1">何先生</p>
             <p class="twodivtopp2"><a href="#" title="#">
                 您对植发了解吗？植发手术是不是很恐怖？疼吗？很多人对植发手术并不了解，总觉得手术室是一个神秘的地方，只有医生、一个神秘的地方，只有医生、一个神秘的地方，只有医生、一个神秘的地方，只有医生、一个神秘的地方，只有医生、……
@@ -145,9 +145,9 @@
                 <p class="threeleftullip1">
                     <b>李建新</b>
                     <span>植发主任</span>
-                    <div class="p1div">Senior Expert </div>
-                    <a href="#"><img src="/statics/images/zhifa_cn_images/ztk_14.png" width="59" height="22" alt="立即预约" class="bspandivaimg1" /></a>
-                    <a href="#"><img src="/statics/images/zhifa_cn_images/ztk_16.png" width="59" height="22" alt="在线咨询" class="bspandivaimg2" /></a>
+                <div class="p1div">Senior Expert </div>
+                <a href="#"><img src="/statics/images/zhifa_cn_images/ztk_14.png" width="59" height="22" alt="立即预约" class="bspandivaimg1" /></a>
+                <a href="#"><img src="/statics/images/zhifa_cn_images/ztk_16.png" width="59" height="22" alt="在线咨询" class="bspandivaimg2" /></a>
                 </p>
                 <p class="threeleftullip2">★ 北京雍禾植发医院植发主任</p>
                 <p class="threeleftullip3">★ 国内首个植发临床研究实验室骨干研究员</p>
@@ -170,50 +170,66 @@
             <h3>热点关注</h3>
         </div>
         <ul id="threeRightul" class="threeRightul">
-            <li>热点文章</li>
+            <li class="activeThreeulli">热点文章</li>
             <li>植发技术</li>
         </ul>
         <div id="threeRightol" class="threeRightol">
-            <ol class="threeRightol1">
-                <li>治疗脱发植发手术还是药 ...</li>
-                <li>植发术后要多少时间才能 ...</li>
-                <li>植发手术适应症与禁忌证</li>
-                <li>植发手术时间短且无痛苦</li>
-                <li>植发手术如何从根本上解 ...</li>
-                <li>植发手术过程中毫无痛苦</li>
-                <li>植发手术的具体过程</li>
-                <li>植发手术安全吗？</li>
-                <li>植发手段与其他治疗手段对比</li>
-                <li>植发机构良莠不齐，如何 ...</li>
+            <ol class="threeRightol1" style="display:block;">
+                <li><a href="#" title="#">治疗脱发植发手术还是药 ...</a></li>
+                <li><a href="#" title="#">植发术后要多少时间才能 ...</a></li>
+                <li><a href="#" title="#">植发手术适应症与禁忌证植发手术适适应症与禁忌证</a></li>
+                <li><a href="#" title="#">植发手术时间短且无痛苦植发手术适应禁忌证</a></li>
+                <li><a href="#" title="#">植发手术如何从根本上解 ...</a></li>
+                <li><a href="#" title="#">植发手术过程中毫无痛苦</a></li>
+                <li><a href="#" title="#">植发手术的具体过植发手术发手术适应症与禁忌证程</a></li>
+                <li><a href="#" title="#">植发手术安全吗？</a></li>
+                <li><a href="#" title="#">植发手段与其他治疗手段对比</a></li>
+                <li><a href="#" title="#">植发机构良莠不齐，如何 ...</a></li>
             </ol>
             <ol class="threeRightol2">
-                <li>治疗脱发植发手术还是药 ...</li>
-                <li>植发术后要多少时间才能 ...</li>
-                <li>植发手术适应症与禁忌证</li>
-                <li>植发手术时间短且无痛苦</li>
-                <li>植发手术如何从根本上解 ...</li>
-                <li>植发手术过程中毫无痛苦</li>
-                <li>植发手术的具体过程</li>
-                <li>植发手术安全吗？</li>
-                <li>植发手段与其他治疗手段对比</li>
+                <li><a href="#" title="#">治疗脱发植发手术还是药 ...</a></li>
+                <li><a href="#" title="#">植发术后要多少时间才能 ...</a></li>
+                <li><a href="#" title="#">植发手术适应症与禁忌证植发手术适应症与禁忌证植证</a></li>
+                <li><a href="#" title="#">植发手术时间短且无痛苦植发手术适应症与禁忌证</a></li>
+                <li><a href="#" title="#">植发手术如何从根本上解 ...</a></li>
+                <li><a href="#" title="#">植发手术过程中毫无痛苦</a></li>
+                <li><a href="#" title="#">植发手术的具体过植发手术适应忌证程</a></li>
+                <li><a href="#" title="#">植发手术安全吗？</a></li>
+                <li><a href="#" title="#">植发手段与其他治疗手段对比</a></li>
+                <li><a href="#" title="#">植发机构良莠不齐，如何 ...</a></li>
                 <li>植发机构良莠不齐，如何 ...</li>
             </ol>
         </div>
         <ul class="threeRightul2">
-            <li><a href="#" title="#">治疗脱发植发手术还是药 ...</a></li>
-            <li><a href="#" title="#">植发手术安全吗？</a></li>
-            <li><a href="#" title="#">治疗脱发植发手术还是药还是药还是药</a></li>
-            <li><a href="#" title="#">植发手术安全吗？安全吗？</a></li>
+            <li class="Rightul2li1"><a href="#" title="#">治疗脱发植发手术还是药 ...</a></li>
+            <li class="Rightul2li2"><a href="#" title="#">植发手术安全吗？</a></li>
+            <li class="Rightul2li3"><a href="#" title="#">治疗脱发植发手术还是药</a></li>
+            <li class="Rightul2li4"><a href="#" title="#">植发手术安全吗？</a></li>
         </ul>
     </div>
 </div>
 
 <div id="ztzfyb_contFour" class="ztzfyb_contFour">
-
+    <div class="contFourNavleft">
+        <h3>分院内景</h3>
+        <p>The hospital interior  <a href="#" title="更多">更多</a></p>
+    </div>
+    <img src="/statics/images/zhifa_cn_images/sfasfafa_03.jpg" width="1000" height="445" />
 </div>
 
 <div id="ztzfyb_contFive" class="ztzfyb_contFive">
-
+    <h3>雍禾植发  专业值得信赖</h3>
+    <p>
+        雍禾植发技术研究院创建于1999年，是国内植发行业的开拓者，也是中国最早拥有自主创新FUE技术的植发中心。2002年，国际毛发论坛 上Rassman博士提出了毛囊单位抽取术（FUE，follicular unit extraction)传入我国，虽然对脱发的治疗达到相对完美的阶段，但该技术使用设备是基于欧美人的毛囊特性而设计，应用于亚洲人时存在缺陷（相比较于欧洲人细软的毛囊，中国人毛囊较为粗、硬）。经过数年的钻研和不断的论证，2009年雍禾植发专家团队协同美国、日本和韩国著名植发专家成功研发出FUE-APL2.0无痕植发技术，并于2010年成功申请专利，并获得ISO国际质量管理体系认证，从此，中国人乃至整个亚洲人有了适合自己的植发技术。
+    </p>
+    <ul>
+        <li>★ 国际植发协会(ISHRS)会员单位</li>
+        <li>★ ISO 9001:2008权威认证植发机构</li>
+        <li>★ 亚洲荣誉植发大会会员(TISHRS)</li>
+        <li>★ CCTV报告雍禾质量标准系单位</li>
+        <li>★ 2项国家专利技术单位</li>
+        <li>★ 5大植发保证协议单位</li>
+    </ul>
 </div>
 
 
