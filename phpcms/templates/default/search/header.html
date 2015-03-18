@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<title>{$SEO['site_title']}{$search_q}</title>
+<link href="{CSS_PATH}search.css" rel="stylesheet" type="text/css" />
+    <link href="{CSS_PATH}/zhifa_cn_css/YHreset.css" rel="stylesheet" type="text/css" />
+    <link href="{CSS_PATH}/zhifa_cn_css/YHindex.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="{JS_PATH}jquery.min.js"></script>
+<script type="text/javascript" src="{JS_PATH}cookie.js"></script>
+<script type="text/javascript" src="{JS_PATH}search_common.js"></script>
+</head>
+<body>
+<!-- 头部 -->
+<div id="header" class="header">
+    <!-- 顶部导航 -->
+    <div id="top_nav" class="top_nav">
+        <ul id="top_nav_ul" class="top_nav_ul">
+            {pc:content action="category" catid="0" num="8" siteid="$siteid" order="listorder ASC" return="dat"}
+            {php $n=0;}
+            <li><a href="{siteurl($siteid)}" title="雍禾植发">雍禾首页</a></li>
+            {loop $dat $r}
+            <li {if $n==8} style="background-image:none;" {/if} ><a {if $CAT[url]==$r[url]} class="top_nav_ul_activeli"{/if} href="{$r[url]}" title="{$r[catname]}">{$r[catname]}</a></li>
+            {php $n=$n+1;}
+            {/loop}
+            {/pc}
+        </ul>
+    </div>
+    <!-- LOGO部分 -->
+    <div id="YHlogo" class="YHlogo">
+        <dl id="YHlogo_dl" class="YHlogo_dl">
+            <dt><h1><a href="/" title="雍禾植发,中国第一家植发专科医院"><img class="YHlogo_img1" src="{IMG_PATH}zhifa_cn_images/YHlogo.png" alt="雍禾植发,中国第一家植发专科医院" /></a><img src="{IMG_PATH}zhifa_cn_images/f_03.png" height="96" /></h1></dt>
+            <dd>国际植发协会(ISHRS)会员单位</dd>
+            <dd>ISO 9001:2008权威认证植发机构</dd>
+            <dd>亚洲荣誉植发大会会员(TISHRS)</dd>
+            <dd>CCTV报告雍禾质量标准系单位</dd>
+            <dd>2项国家专利技术单位</dd>
+            <dd>5大植发保证协议单位</dd>
+            <p class="YHlogo_p"><img src="{IMG_PATH}zhifa_cn_images/f_03.png" /><img class="YHlogo_img2" src="{IMG_PATH}zhifa_cn_images/e_03.png" alt="全天候24小时:400-888-6667" /><b>400-888-6667</b></p>
+        </dl>
+    </div>
+</div>
