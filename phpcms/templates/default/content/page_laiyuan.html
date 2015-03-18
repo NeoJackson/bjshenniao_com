@@ -1,0 +1,19 @@
+{template "content","header_page"}
+<div id="content_page" class="content_page">
+	<div class="page-col-left">
+    	<h1>来院路线</h1>
+    	<ul class="nav_content">
+        	{loop $arrchild_arr $cid}
+                <li{if $catid==$cid} class="cur"{/if}><a href="{$CATEGORYS[$cid][url]}">{$CATEGORYS[$cid][catname]}</a></li>
+			{/loop}
+        </ul>
+    </div>
+    <div class="page-col-auto">
+    	<img src="{IMG_PATH}zhifa_cn_images/about_ad.jpg" width="750" />
+    	<h1 class="page-title">{$title}</h1>
+        <div class="page-content">
+        	    {$content}
+        </div>
+    </div>
+ </div>
+{template "content","footer"}

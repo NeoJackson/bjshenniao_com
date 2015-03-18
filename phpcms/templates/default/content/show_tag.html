@@ -1,0 +1,78 @@
+{template "content","header"}
+
+<!-- 列表页内容 -->
+<div class="listcontent">
+<div class="listcontent_div">
+<!-- 列表页左侧内容 -->
+<div class="listcontent_left">
+    {template "content","curPos"}
+
+    <div id="listcontent_left_content" class="listcontent_left_content">
+        <h2>{$title}</h2>
+        <p class="listcontent_left_content_p1">{$inputtime} &nbsp;&nbsp; 来源：{$copyfrom}</p>
+        <p class="listcontent_left_content_p2">{template "content","shareCode"}</p>
+        <ul class="listcontent_left_ul">
+            <li class="secondli"><a title="头发种植" href="/tfzz/">头发种植</a></li>
+            <li><a title="发际线调整" href="/vjxtz/">发际线调整</a></li>
+            <li class="secondli"><a title="胡须种植" href="/hxzz/">胡须种植</a></li>
+            <li><a title="鬓角种植" href="/bjzz/">鬓角种植</a></li>
+            <li><a title="眉毛种植" href="/mmzz/">眉毛种植</a></li>
+            <li class="secondli"><a title="疤痕植发" href="/bhzf/">疤痕植发</a></li>
+            <li><a title="睫毛种植" href="/jmzz/">睫毛种植</a></li>
+            <li class="secondli"><a title="美人尖种植" href="/mrjzz/">美人尖种植</a></li>
+        </ul>
+        <p class="listcontent_left_content_p3">{$content}</p>
+        <p class="listcontent_left_content_p4"><span>上一篇：</span><a href="{$previous_page[url]}">{$previous_page[title]}</a></p>
+        <p class="listcontent_left_content_p5"><span>下一篇：</span><a href="{$next_page[url]}">{$next_page[title]}</a></p>
+        <div class="list_banner">
+            <script language="javascript" src="{APP_PATH}index.php?m=poster&c=index&a=show_poster&id=26"></script>
+        </div>
+        <div id="xiangguanwenzhang" class="xiangguanwenzhang">
+            <p class="xiangguanwenzhang_p1">相关文章</p>
+            <ul class="xiangguanwenzhang_ul1">
+                {pc:content action="relation" relation="$relation" catid="$catid" num="8" keywords="$rs[keywords]" moreinfo="1"}
+                    {if $data}
+                        {loop $data $r}
+                            <li><a title="{$r[title]}" href="{$r[url]}">{str_cut($r[title],70,' ...')}</a></li>
+                        {/loop}
+                    {/if}
+                {/pc}
+                {pc:content action="lists" catid="$catid" order="updatetime ASC" num="8" cache="3600"}
+                    {loop $data $r}
+                        <li><a title="{$r[title]}" href="{$r[url]}">{str_cut($r[title],70,' ...')}</a></li>
+                    {/loop}
+                {/pc}
+            </ul>
+            <ul id="xiangguanwenzhang_ul2" class="xiangguanwenzhang_ul2">
+                {pc:content action="lists" catid="35" order="updatetime DESC" num="4" cache="3600"}
+                    {php $sff=0;}
+                    {loop $data $r}
+                        <li {if $sff==0} class="xiangguanwenzhang_ul2_activeli" {/if}>
+                            <a title="{$r[title]}" href="{$r[url]}">
+                                <p class="xiangguanwenzhang_ul2_p1">{str_cut($r[title],40,' ...')}</p>
+                                <p class="xiangguanwenzhang_ul2_p2">{str_cut($r[description],80,'')}<a title="{$r[title]}" href="{$r[url]}" style="color:#ff6820;">……详情</a></p>
+                            </a>
+                        </li>
+                    {php $sff+=1;}
+                    {/loop}
+                {/pc}
+            </ul>
+        </div>
+    </div>
+    <!-- 列表页左侧共同底部内容 -->
+    {template "content","leftCommon"}
+</div>
+<!-- 列表页右侧内容 -->
+{template "content","rightCommon"}
+</div>
+</div>
+
+
+<script>
+
+    // 内容页 相关文章
+    xiangguanwenzhang_ul2();
+
+</script>
+
+{template "content","footer"}

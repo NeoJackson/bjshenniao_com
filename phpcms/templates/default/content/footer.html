@@ -1,0 +1,71 @@
+
+<!-- 靠近尾部 的荣誉资质合作机构等部分  -->
+<div id="zhizirongyu" class="zhizirongyu">
+    <ul id="zhizirongyu_ul" class="zhizirongyu_ul">
+        <li class="zhizirongyu_ul_liactive"><a href="#">合作机构</a></li>
+        <li><a href="#">机构荣誉</a></li>
+        <li><a href="#" style="border-right:none;">顶尖设备</a></li>
+    </ul>
+    <div id="zhizirongyu_content" class="zhizirongyu_content">
+        <ul style="display:block;" class="zhizirongyu_content_ul">
+            {pc:content action="lists" catid="22" order="updatetime DESC" num="5" cache="3600" moreinfo="1"}
+                {loop $data $r}
+                    <li><a title="{$r[title]}" href="{$r[url]}"><img width="180" src="{$r[thumb]}"/></a></li>
+                {/loop}
+            {/pc}
+        </ul>
+        <ul class="zhizirongyu_content_ul">
+            {pc:content action="lists" catid="23" order="updatetime DESC" num="5" cache="3600" moreinfo="1"}
+                {loop $data $r}
+                    <li><a title="{$r[title]}" href="{$r[url]}"><img width="180" src="{$r[thumb]}"/></a></li>
+                {/loop}
+            {/pc}
+        </ul>
+        <ul class="zhizirongyu_content_ul">
+            {pc:content action="lists" catid="24" order="updatetime DESC" num="5" cache="3600" moreinfo="1"}
+                {loop $data $r}
+                    <li><a title="{$r[title]}" href="{$r[url]}"><img width="180" src="{$r[thumb]}"/></a></li>
+                {/loop}
+            {/pc}
+        </ul>
+    </div>
+</div>
+
+<!-- 尾部 -->
+<div id="footer" class="footer">
+    <div id="footer_nav" class="footer_nav">
+        <ul id="footer_nav_ul" class="footer_nav_ul">
+            <li><a href="{siteurl($siteid)}" title="雍禾植发">雍禾首页</a></li>
+            {pc:content action="category" catid="0" num="8" siteid="$siteid" order="listorder ASC"}
+                {php $ns=0;}
+                {loop $data $r}
+                    <li><a href="{$r[url]}" title="{$r[catname]}" {if $ns==7} style="border-right:none;" {/if} >{$r[catname]}</a></li>
+                {php $ns=$ns+1;}
+                {/loop}
+            {/pc}
+        </ul>
+    </div>
+    <div id="footer_info" class="footer_info">
+        <div id="footer_logo" class="footer_logo">
+            <a href="/" title="雍禾植发"><img src="{IMG_PATH}zhifa_cn_images/YHlogo_footer.png" width="118" alt="雍禾植发" /></a>
+        </div>
+        <div id="footer_p" class="footer_p">
+            <p>版权声明：本网站商标及图片属北京雍禾美度门诊部，未经授权请勿复制及转载。</p>
+            <p>网站内容声明：本网站信息仅供参考，不能作为诊疗及医疗依据。</p>
+            <p>Copyright ©2015 雍禾植发 京ICP备11041313号 </p>
+            <p>免费咨询热线：400-888-6667</p>
+        </div>
+        <ul id="footer_ul" class="footer_ul">
+            <li><a href="#">北京雍禾</a></li>
+            <li><a href="#">广州雍禾</a></li>
+            <li><a href="#">武汉雍禾</a></li>
+            <li><a href="#">上海雍禾</a></li>
+            <li><a href="#">深圳雍禾</a></li>
+            <li><a href="#">成都雍禾</a></li>
+        </ul>
+    </div>
+    <div id="page"></div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+
+<!-- 植发项目导航  -->
+<div id="pro_nav" class="pro_nav">
+    <dl id="pro_nav_dl" class="pro_nav_dl">
+        <dt><a href="/dyzfxm/" title="植发项目"><img src="{IMG_PATH}zhifa_cn_images/h_03.jpg" alt="植发项目" /></a></dt>
+        {pc:content action="category" catid="52" num="13" siteid="$siteid" order="listorder ASC"}
+        {loop $data $r}
+        <dd>
+            <h2><a href="{$r[url]}" title="{$r[catname]}"><img src="{$r[image]}" alt="{$r[catname]}" /><b>{$r[catname]}</b></a></h2>
+        </dd>
+        {/loop}
+        {/pc}
+    </dl>
+</div>
