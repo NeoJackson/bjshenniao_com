@@ -1372,7 +1372,7 @@
 .ztzfyb_twoNav ul {width:700px;height:50px;float:left;margin-left:20px;}
 .ztzfyb_twoNav ul li {float:left;width:70px;height:50px;line-height:40px;text-align:center;cursor:pointer;}
 
-.ztzfyb_twoDiv {width:1000px;}
+.ztzfyb_twoDiv {width:1000px;display:none;}
 .twoDiv_top {width:1000px;height:285px;}
 .twoDiv_top .twoDivtopimg {float:left;margin-right:10px;}
 .twoDiv_top .twodivtopp1 {float:left;width:290px;height:35px;overflow:hidden;padding-left:10px;line-height:30px;color:#0171bd;font-size:18px;font-family:"Microsoft YaHei";}
@@ -1381,12 +1381,13 @@
 .twoDiv_top .twodivtopp3 {float:left;padding:15px;border-bottom:1px solid #d4d4d4;text-align:center;width:270px;}
 
 .twoDiv_bottom {width:1000px;position:relative;}
-.twoDiv_bottom ul {float:right;width:300px;margin-top:5px;}
+.twoDivbottomimg,.twoDivbottomimg2 {float:left;margin-right:5px;}
+.twoDiv_bottom ul {float:right;width:300px;height:80px;margin-top:5px;}
 .twoDiv_bottom ul li {height:20px;line-height:20px;}
 .twoDiv_bottom ul li a {color:#010101;font-size:14px;}
-.twoDiv_bottom .twoDivbottoma {position:absolute;right:220px;bottom:10px;color:#0060c3;font-size:12px;}
+.twoDiv_bottom .twoDivbottoma {float:right;width:100px;height:20px;position:relative;right:200px;bottom:-15px;color:#0060c3;font-size:12px;}
 
-.twoDivnav {margin:10px 0;}
+.twoDivnav {margin:10px 0;float:left;}
 .twoDivnav img {width:1000px;}
 
 
@@ -1400,15 +1401,22 @@
 .threeNavleft p {float:left;height:50px;line-height:60px;color:#008ed9;font-size:18px;margin:0 20px;}
 .threeNavleft p a {color:#000000;font-size:12px;}
 
-.contThreeLeft ul {width:560px;height:445px;margin:20px 0;}
-.contThreeLeft ul li {}
+.contThreeLeftdiv {position:relative;width:560px;height:445px;overflow:hidden;}
+.contThreeLeftdiv_prev {position:absolute;bottom:50px;left:0px;z-index:100;cursor:pointer;}
+.contThreeLeftdiv_next {position:absolute;bottom:50px;right:0px;z-index:100;cursor:pointer;}
+.contThreeLeftdiv_huandeng {width:560px;height:445px;overflow:hidden;}
+
+
+
+.contThreeLeft ul {width:560px;height:445px;margin:20px 0;position:relative;left:0;top:0;}
+.contThreeLeft ul li {float:left;width:560px;}
 .contThreeLeft .bspandivaimg {float:left;margin-right:10px;}
-.contThreeLeft .threeleftullip1 {float:left;width:360px;height:50px;line-height:60px;border-bottom:1px dashed #c9c9c9;}
-.threeleftullip1 b {float:left;color:#030303;font-size:16px;margin:0 10px;}
-.threeleftullip1 span {float:left;color:#030303;font-size:12px;}
-.p1div {position:relative;top:-25px;left:130px;color:#d6d5d5;font-size:14px;}
-.bspandivaimg1 {position:absolute;top:90px;left:430px;}
-.bspandivaimg2 {position:absolute;top:90px;left:500px;}
+.contThreeLeft .threeleftullip1 {float:left;width:360px;height:50px;line-height:60px;border-bottom:1px dashed #c9c9c9;margin-bottom:-20px;}
+.threeleftullip1 b {float:left;color:#030303;font-size:16px;margin:0 10px;width:50px;height:50px;overflow:hidden;}
+.threeleftullip1 span {float:left;color:#030303;font-size:12px;width:50px;height:50px;overflow:hidden;}
+.p1div {position:relative;top:-5px;left:130px;color:#d6d5d5;font-size:14px;}
+.bspandivaimg1 {position:relative;top:-25px;left:230px;}
+.bspandivaimg2 {position:relative;top:-25px;left:230px;}
 .threeleftullip2 {width:350px;height:30px;overflow:hidden;line-height:30px;font-size:14px;color:#d04d00;}
 .threeleftullip3 {width:350px;height:30px;overflow:hidden;line-height:30px;font-size:14px;color:#d04d00;}
 .threeleftullip4 {width:350px;height:30px;overflow:hidden;line-height:30px;font-size:14px;color:#d04d00;}
@@ -1427,7 +1435,7 @@
 .threeNavRight {width:380px;height:50px;line-height:50px;}
 .threeNavRight h3 {color:#010101;font-size:18px;font-weight:bold;font-family:"Microsoft YaHei";}
 .threeRightul {width:380px;height:30px;border-top:1px solid #d4d4d4;border-bottom:1px solid #d4d4d4;}
-.threeRightul li {width:96px;height:30px;text-aligin:center;float:left;line-height:30px;margin:0 20px;cursor:pointer;}
+.threeRightul li {width:96px;height:30px;text-align:center;float:left;line-height:30px;margin:0 20px;cursor:pointer;}
 .activeThreeulli {background:url('/statics/images/zhifa_cn_images/wwfff_07.jpg') no-repeat center bottom;width:96px;height:30px;text-align:center;padding-bottom:5px;}
 
 .threeRightol {margin-top:10px;}

@@ -711,6 +711,36 @@ hm.app.toRun = function(){
     };
 };
 
+
+hm.app.toRun14 = function(){
+    var oRun = document.getElementById('contThreeLeftdiv');
+    var oUl = oRun.getElementsByTagName('ul')[0];
+    var aLi = oUl.getElementsByTagName('li');
+    var oPrev = hm.tools.getByClass(oRun,'contThreeLeftdiv_prev')[0];
+    var oNext = hm.tools.getByClass(oRun,'contThreeLeftdiv_next')[0];
+    var iNow = 0;
+    oUl.innerHTML += oUl.innerHTML;
+    oUl.style.width = aLi.length * aLi[0].offsetWidth + 'px';
+
+    oPrev.onclick = function(){
+        if(iNow == 0){
+            iNow = aLi.length/2;
+            oUl.style.left = -oUl.offsetWidth/2 + 'px';
+        }
+        hm.ui.moveLeft(oUl,-iNow*aLi[0].offsetWidth,-(iNow-1)*aLi[0].offsetWidth);
+        iNow--;
+    };
+
+    oNext.onclick = function(){
+        if(iNow == aLi.length/2){
+            iNow = 0;
+            oUl.style.left = 0;
+        }
+        hm.ui.moveLeft(oUl,-iNow*aLi[0].offsetWidth,-(iNow+1)*aLi[0].offsetWidth);
+        iNow++;
+    };
+};
+
 hm.app.toRun2 = function(){
     var oRun = document.getElementById('content_two_ul_main_7_right');
     var oUl = oRun.getElementsByTagName('ul')[0];
@@ -1130,9 +1160,44 @@ function ztzfjs_Threediv_ul(){
 
 
 
+/* 专题院部分院页面 */
+function ztzfyb_contTwo(){
+    var oUl = document.getElementById('ztzfyb_contTwoul');
+    var aLi = oUl.getElementsByTagName('li');
+    var aDiv = getClassNames('ztzfyb_twoDiv','div');
 
+    for(var i=0;i<aLi.length;i++){
+        aLi[i].index=i;
+        aLi[i].onmouseover=function(){
+            for(var i=0;i<aLi.length;i++){
+                // aLi[i].className='';
+                aDiv[i].style.display='none';
+            }
+            // aLi[this.index].className='ztzfjs_Threediv_ul_activeli';
+            aDiv[this.index].style.display='block';
+        };
+    }
+}
 
+function threeRightul(){
+    var oUl = document.getElementById('threeRightul');
+    var aLi = oUl.getElementsByTagName('li');
 
+    var oDiv = document.getElementById('threeRightol');
+    var aOl = oDiv.getElementsByTagName('ol');
+
+    for(var i=0;i<aLi.length;i++){
+        aLi[i].index=i;
+        aLi[i].onmouseover=function(){
+            for(var i=0;i<aLi.length;i++){
+                aLi[i].className='';
+                aOl[i].style.display='none';
+            }
+            aLi[this.index].className='activeThreeulli';
+            aOl[this.index].style.display='block';
+        };
+    }
+}
 
 
 
