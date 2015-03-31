@@ -1,1 +1,0 @@
-document.writeln('<iframe src="../waiwangJs/html_content/1.htm" style="width:100%;height:370px;" align="middle"  frameborder="0"></iframe>');
