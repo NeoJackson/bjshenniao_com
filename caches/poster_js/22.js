@@ -49,7 +49,7 @@ cmsAD_22.PosID = 22;
 cmsAD_22.ADID = 25; 
 cmsAD_22.ADType = "images"; 
 cmsAD_22.ADName = "首页通栏广告5"; 
-cmsAD_22.ADContent = "{'Images':[{'imgADLinkUrl':'','imgADAlt':'','ImgPath':'http://www.bjshenniao.cn/uploadfile/2015/0207/20150207040900124.jpg'}],'imgADLinkTarget':'New','Count':'1','showAlt':'Y'}"; 
+cmsAD_22.ADContent = "{'Images':[{'imgADLinkUrl':'','imgADAlt':'','ImgPath':'http://www.bjshenniao.cn/uploadfile/2015/0207/20150207041826710.jpg'}],'imgADLinkTarget':'New','Count':'1','showAlt':'Y'}"; 
 cmsAD_22.URL = "http://www.bjshenniao.cn/index.php?m=poster&c=index"; 
 cmsAD_22.SiteID = 1; 
 cmsAD_22.Width = 1000; 

@@ -1015,8 +1015,207 @@ hm.app.toRun13 = function(){
 };
 
 
+hm.app.toRun14 = function(){
+    var oRun = document.getElementById('divzbhotimg');
+    var oUl = oRun.getElementsByTagName('ul')[0];
+    var aLi = oUl.getElementsByTagName('li');
+    var oPrev = hm.tools.getByClass(oRun,'divzbhotimgprve')[0];
+    var oNext = hm.tools.getByClass(oRun,'divzbhotimgnext')[0];
+    var iNow = 0;
+    oUl.innerHTML += oUl.innerHTML;
+    oUl.style.width = aLi.length * aLi[0].offsetWidth + 'px';
+
+    oPrev.onclick = function(){
+        if(iNow == 0){
+            iNow = aLi.length/2;
+            oUl.style.left = -oUl.offsetWidth/2 + 'px';
+        }
+        hm.ui.moveLeft(oUl,-iNow*aLi[0].offsetWidth,-(iNow-1)*aLi[0].offsetWidth);
+        iNow--;
+    };
+
+    oNext.onclick = function(){
+        if(iNow == aLi.length/2){
+            iNow = 0;
+            oUl.style.left = 0;
+        }
+        hm.ui.moveLeft(oUl,-iNow*aLi[0].offsetWidth,-(iNow+1)*aLi[0].offsetWidth);
+        iNow++;
+    };
+};
 
 
+
+hm.app.toRun15 = function(){
+    var oRun = document.getElementById('yhzbsp_conttwo');
+    var oUl = oRun.getElementsByTagName('ul')[0];
+    var aLi = oUl.getElementsByTagName('li');
+    var oPrev = hm.tools.getByClass(oRun,'yhzbsp_conttwo_preivew')[0];
+    var oNext = hm.tools.getByClass(oRun,'yhzbsp_conttwo_next')[0];
+    var iNow = 0;
+    oUl.innerHTML += oUl.innerHTML;
+    oUl.style.width = aLi.length * aLi[0].offsetWidth + 'px';
+
+    oPrev.onclick = function(){
+        if(iNow == 0){
+            iNow = aLi.length/2;
+            oUl.style.left = -oUl.offsetWidth/2 + 'px';
+        }
+        hm.ui.moveLeft(oUl,-iNow*aLi[0].offsetWidth,-(iNow-1)*aLi[0].offsetWidth);
+        iNow--;
+    };
+
+    oNext.onclick = function(){
+        if(iNow == aLi.length/2){
+            iNow = 0;
+            oUl.style.left = 0;
+        }
+        hm.ui.moveLeft(oUl,-iNow*aLi[0].offsetWidth,-(iNow+1)*aLi[0].offsetWidth);
+        iNow++;
+    };
+};
+
+function xialap(){
+    var adiv0 = getClassNames('xialap','div');
+    var aP = getClassNames('hotdivcontp1','p');
+
+    var oDiv2 = document.getElementById('divzbhotul');
+    var aLi = oDiv2.getElementsByTagName('li');
+    var aDiv = getClassNames('divzbhotdivcont','div');
+    for(var i=0;i<aLi.length;i++){
+        adiv0[i].index=i;
+        adiv0[i].onclick = function(){
+            for(var i=0;i<aLi.length;i++){
+                aP[i].style.height = '200px';
+            }
+            aP[this.index].style.height = '';
+        };
+
+        aLi[i].index=i;
+        aLi[i].onclick = function(){
+            for(var i=0;i<aLi.length;i++){
+                aDiv[i].style.display = 'none';
+            }
+            aDiv[this.index].style.display = 'block';
+        };
+    }
+
+}
+
+
+function ztnxzf_contOnediv2(){
+    var oDiv = document.getElementById('ztnxzf_contOnediv2');
+    var aLi = oDiv.getElementsByTagName('li');
+    var aImg = oDiv.getElementsByTagName('img');
+
+
+    for(var i=0;i<aLi.length;i++){
+        aLi[i].index = i;
+        aLi[i].onclick = function(){
+            if(this.index==0){
+                aLi[0].style.left = '500px';
+                aLi[0].style.top = '85px';
+                aLi[0].style.zIndex = '0';
+                aImg[0].style.width = '51px';
+                aImg[0].style.height = '269px';
+
+                aLi[1].style.left = '0px';
+                aLi[1].style.top = '0px';
+                aLi[1].style.zIndex = '3';
+                aImg[1].style.width = '351px';
+                aImg[1].style.height = '569px';
+
+                aLi[2].style.left = '250px';
+                aLi[2].style.top = '60px';
+                aLi[2].style.zIndex = '2';
+                aImg[2].style.width = '251px';
+                aImg[2].style.height = '469px';
+
+                aLi[3].style.left = '440px';
+                aLi[3].style.top = '85px';
+                aLi[3].style.zIndex = '1';
+                aImg[3].style.width = '151px';
+                aImg[3].style.height = '369px';
+            }
+            if(this.index==1){
+                aLi[0].style.left = '440px';
+                aLi[0].style.top = '85px';
+                aLi[0].style.zIndex = '1';
+                aImg[0].style.width = '151px';
+                aImg[0].style.height = '369px';
+
+                aLi[1].style.left = '500px';
+                aLi[1].style.top = '85px';
+                aLi[1].style.zIndex = '0';
+                aImg[1].style.width = '51px';
+                aImg[1].style.height = '269px';
+
+                aLi[2].style.left = '0px';
+                aLi[2].style.top = '0px';
+                aLi[2].style.zIndex = '3';
+                aImg[2].style.width = '351px';
+                aImg[2].style.height = '569px';
+
+                aLi[3].style.left = '250px';
+                aLi[3].style.top = '60px';
+                aLi[3].style.zIndex = '2';
+                aImg[3].style.width = '251px';
+                aImg[3].style.height = '469px';
+            }
+            if(this.index==2){
+                aLi[0].style.left = '250px';
+                aLi[0].style.top = '60px';
+                aLi[0].style.zIndex = '2';
+                aImg[0].style.width = '251px';
+                aImg[0].style.height = '469px';
+
+                aLi[1].style.left = '440px';
+                aLi[1].style.top = '85px';
+                aLi[1].style.zIndex = '1';
+                aImg[1].style.width = '151px';
+                aImg[1].style.height = '369px';
+
+                aLi[2].style.left = '500px';
+                aLi[2].style.top = '85px';
+                aLi[2].style.zIndex = '0';
+                aImg[2].style.width = '51px';
+                aImg[2].style.height = '269px';
+
+                aLi[3].style.left = '0px';
+                aLi[3].style.top = '0px';
+                aLi[3].style.zIndex = '3';
+                aImg[3].style.width = '351px';
+                aImg[3].style.height = '569px';
+            }
+            if(this.index==3){
+                aLi[0].style.left = '0px';
+                aLi[0].style.top = '0px';
+                aLi[0].style.zIndex = '3';
+                aImg[0].style.width = '351px';
+                aImg[0].style.height = '569px';
+
+                aLi[1].style.left = '250px';
+                aLi[1].style.top = '60px';
+                aLi[1].style.zIndex = '2';
+                aImg[1].style.width = '251px';
+                aImg[1].style.height = '469px';
+
+                aLi[2].style.left = '440px';
+                aLi[2].style.top = '85px';
+                aLi[2].style.zIndex = '1';
+                aImg[2].style.width = '151px';
+                aImg[2].style.height = '369px';
+
+                aLi[3].style.left = '500px';
+                aLi[3].style.top = '85px';
+                aLi[3].style.zIndex = '0';
+                aImg[3].style.width = '51px';
+                aImg[3].style.height = '269px';
+            }
+        };
+    }
+
+}
 
 
 function content_two_ul_main_7_right(){

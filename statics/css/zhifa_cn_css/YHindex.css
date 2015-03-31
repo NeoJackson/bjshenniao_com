@@ -79,6 +79,79 @@
 
 
 
+/* 专题女性植发 */
+.slideBox_yhzt {width:100%;height:1009px;position:relative;}
+.slideBox_yhzt .bd {min-width:1000px;height:1009px;position:relative;overflow:hidden;}
+.slideBox_yhzt .bd ul {position:absolute;left:0;top:0;}
+.slideBox_yhzt .bd ul li {float:left;}
+.slideBox_yhzt .bd li .siteWidth {position:relative;}
+
+.slideBox_yhzt .hd{position:absolute;bottom:0px;left:45%;height:30px;text-align:center;}
+.slideBox_yhzt .hd ul li { cursor:pointer;float:left;width:30px;height:30px;line-height:30px;margin:0 4px;overflow:hidden;filter:alpha(opacity=40);-moz-opacity:0.4;opacity:0.4;text-align:center;background:#004092;}
+.slideBox_yhzt .hd ul .on{ background:#ff4e00;filter:alpha(opacity=100);-moz-opacity:1;opacity:1;}
+
+/* 下面是前/后按钮代码，如果不需要删除即可 */
+.slideBox_yhzt .slideBox_prev,
+.slideBox_yhzt .slideBox_next{ position:absolute; left:3%; top:50%;z-index:100; margin-top:-25px; display:block; width:32px; height:40px; background:url('/statics/images/zhifa_cn_images/slider-arrow.png') -110px 5px no-repeat; filter:alpha(opacity=50);opacity:0.5;   }
+.slideBox_yhzt .slideBox_next{ left:auto; right:3%; background-position:8px 5px; }
+.slideBox_yhzt .slideBox_prev:hover,
+.slideBox_yhzt .slideBox_next:hover{ filter:alpha(opacity=100);opacity:1;  }
+
+.ztnxzf_content {width:100%;position:relative;background:#000000;}
+
+.ztnxzf_contOne {width:1000px;height:750px;margin:0 auto;position:relative;padding-top:60px;}
+.djzjdiv {position:absolute;top:-130px;left:190px;width:110px;height:117px;}
+.djzjdiv a {position:relative;z-index:100;padding:55px;display:block;}
+.contHead {width:1000px;text-align:center;position:relative;}
+.contHead .contHeadimg1 {background:url('/statics/images/zhifa_cn_images/sdfadfff_07.jpg') no-repeat;width:493px;height:5px;position:absolute;left:-200px;top:30px;}
+.contHead .contHeadimg2 {background:url('/statics/images/zhifa_cn_images/sdfadfff_09.jpg') no-repeat;width:510px;height:5px;position:absolute;right:-200px;top:30px;}
+.contHead .contentimg {width:300px;height:65px;margin:0px auto;}
+.contHead .contentimg p {width:300px;height:20px;color:#c91582;font-size:17px;margin:0 auto;}
+.contHead .contentimg h2 {width:300px;height:30px;color:#ffffff;font-size:34px;margin:0 auto;}
+
+.contOnebk {width:1000px;text-align:center;color:#fff;background:url('/statics/images/zhifa_cn_images/sdfadfff_04.jpg') no-repeat left center;width:1450px;height:717px;position:relative;left:-250px;}
+.contOneul1 {width:50px;height:563px;position:absolute;top:80px;left:210px;}
+.contOneul1 li {width:50px;height:135px;background:url('/statics/images/zhifa_cn_images/fefes_06.jpg') no-repeat;margin:10px 0;}
+.contOneul1 li b {padding-right:5px;width:20px;color:#282828;font-size:20px;display:block;margin:0 auto;padding-top:30px;}
+
+.contOneul2 {width:314px;height:137px;position:absolute;top:80px;left:270px;}
+.contOneul2 li {width:314px;height:137px;background:url('/statics/images/zhifa_cn_images/fefes_03.jpg') no-repeat;margin:8px 0;}
+.contOneul2 li h3 {color:#ffffff;font-size:12px;height:50px;line-height:50px;}
+.contOneul2 li p {width:235px;height:80px;margin:0 auto;overflow:hidden;line-height:20px;text-align:left;}
+.contOneul2 li p a {color:#a2a2a2;font-size:13px;}
+.contOneul2 li p a b {color:#fffc00;}
+
+
+.ztnxzf_contOnediv {width:600px;height:575px;position:absolute;top:90px;right:230px;text-align:left;}
+.contOnddivspaniimg {width:65px;height:95px;text-align:center;position:absolute;right:0px;top:240px;z-index:100;background:#000000;cursor:pointer;filter:alpha(opacity=50);-moz-opacity:0.5;opacity:0.5;}
+.contOnddivspaniimg img {margin-top:20px;}
+.ztnxzf_contOnediv2 {width:600px;height:575px;}
+.ztnxzf_contOnediv2 ul {width:600px;height:575px;}
+.ztnxzf_contOnediv2 ul li {position:absolute;cursor:pointer;}
+.ztnxzf_contOnediv2 ul li img {border:1px solid #ccc;}
+
+
+.ztnxzf_contTwo {width:1000px;height:550px;margin:0 auto;position:relative;padding-top:60px;}
+.contTwoul1 {width:1000px;height:550px;margin:0 auto;position:relative;}
+.contTwoul1 li {float:left;width:306px;height:486px;margin-right:25px;}
+.contTwoul1 li h3 {color:#000000;height:40px;overflow:hidden;line-height:40px;text-align:left;font-size:21px;margin-top:160px;padding:0 10px;}
+.contTwoul1 li p {color:#2e2e2e;font-size:13px;width:220px;line-height:20px;text-indent:2em;margin:30px auto;}
+.contTwoul1 li a {color:#959594;font-size:14px;display:block;position:relative;top:-25px;left:133px;}
+
+
+
+.ztnxzf_contThree {width:1000px;height:350px;margin:0 auto;position:relative;padding-top:60px;padding-bottom:150px;}
+.contThreeul {width:1000px;height:350px;margin:0 auto;position:relative;padding-top:50px;}
+.contThreeul li {float:left;width:315px;height:135px;margin-right:10px;margin-bottom:10px;list-style:none;}
+.contThreeul li h3 {width:283px;height:36px;line-height:36px;padding-left:75px;margin-bottom:10px;background:url('/statics/images/zhifa_cn_images/sdfadfff_23.jpg') no-repeat;}
+.contThreeul li p {color:#ffffff;font-size:12px;width:283px;height:76px;line-height:20px;padding-left:75px;padding-top:10px;background:url('/statics/images/zhifa_cn_images/sdfadfff_30.jpg') no-repeat;}
+.contThreeul li p span {width:205px;display:block;}
+.dianjizhizun {position:absolute;right:0;top:165px;}
+
+
+
+
+
 
 /* 植发项目导航 */
 .pro_nav {width:100%;height:130px;background:#f3f3f3;text-align:center;}
@@ -904,30 +977,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*  雍禾视频模版  */
 .yhsp_content {width:100%;height:1300px;background:#ffffff;}
 
@@ -982,6 +1031,146 @@
 .commondiv_content_three_main_dl dd a img {margin:10px 0;}
 
 .productNav {width:1000px;position:relative;top:470px;left:0;}
+
+
+
+
+
+
+
+
+
+
+/*  雍禾直播视频模版  */
+
+
+.slideBoxzb {width:100%;height:400px;position:relative;}
+.slideBoxzb .bdzb {min-width:1000px;height:400px;position:relative;overflow:hidden;}
+.slideBoxzb .bdzb ul {position:absolute;left:0;top:0;}
+.slideBoxzb .bdzb ul li {float:left;}
+.slideBoxzb .bdzb li .siteWidthzb {position:relative; left:-12%;}
+
+.slideBoxzb .hdzb {position:absolute;bottom:0px;left:45%;height:30px;text-align:center;}
+.slideBoxzb .hdzb ul li { cursor:pointer;float:left;width:30px;height:30px;line-height:30px;margin:0 4px;overflow:hidden;filter:alpha(opacity=40);-moz-opacity:0.4;opacity:0.4;text-align:center;background:#004092;}
+.slideBoxzb .hdzb ul .onzb { background:#ff4e00;filter:alpha(opacity=100);-moz-opacity:1;opacity:1;}
+
+/* 下面是前/后按钮代码，如果不需要删除即可 */
+.slideBoxzb .slideBox_prevzb,
+.slideBoxzb .slideBox_nextzb { position:absolute; left:3%; top:50%;z-index:100; margin-top:-25px; display:block; width:32px; height:40px; background:url('/statics/images/zhifa_cn_images/slider-arrow.png') -110px 5px no-repeat; filter:alpha(opacity=50);opacity:0.5;   }
+.slideBoxzb .slideBox_nextzb { left:auto; right:3%; background-position:8px 5px; }
+.slideBoxzb .slideBox_prevzb:hover,
+.slideBoxzb .slideBox_nextzb:hover{ filter:alpha(opacity=100);opacity:1;  }
+
+
+.slideBox_yhzb {width:100%;height:730px;position:relative;}
+.slideBox_yhzb .bdzb {min-width:1000px;height:730px;position:relative;overflow:hidden;}
+.slideBox_yhzb .bdzb ul {position:absolute;left:0;top:0;}
+.slideBox_yhzb .bdzb ul li {float:left;}
+.slideBox_yhzb .bdzb li .siteWidthzb {position:relative;}
+
+.slideBox_yhzb .hdzb {position:absolute;bottom:0px;left:45%;height:30px;text-align:center;}
+.slideBox_yhzb .hdzb ul li { cursor:pointer;float:left;width:30px;height:30px;line-height:30px;margin:0 4px;overflow:hidden;filter:alpha(opacity=40);-moz-opacity:0.4;opacity:0.4;text-align:center;background:#004092;}
+.slideBox_yhzb .hdzb ul .onzb { background:#ff4e00;filter:alpha(opacity=100);-moz-opacity:1;opacity:1;}
+
+/* 下面是前/后按钮代码，如果不需要删除即可 */
+.slideBox_yhzb .slideBox_prevzb,
+.slideBox_yhzb .slideBox_nextzb { position:absolute; left:3%; top:50%;z-index:100; margin-top:-25px; display:block; width:32px; height:40px; background:url('/statics/images/zhifa_cn_images/slider-arrow.png') -110px 5px no-repeat; filter:alpha(opacity=50);opacity:0.5;   }
+.slideBox_yhzb .slideBox_nextzb { left:auto; right:3%; background-position:8px 5px; }
+.slideBox_yhzb .slideBox_prevzb:hover,
+.slideBox_yhzb .slideBox_nextzb:hover { filter:alpha(opacity=100);opacity:1;  }
+
+
+
+
+
+
+
+
+.yhzbsp_content {width:100%;margin-bottom:550px;background:#ffffff;}
+
+.yhzbsp_contone {width:780px;height:480px;background:url('/statics/images/zhifa_cn_images/spzt_03.jpg') repeat-x;margin:0 auto;position:relative;top:-490px;}
+.contone_zbsp {width:722px;height:440px;position:absolute;top:20px;left:30px;background:#fefefe;border:1px solid #c8c8c8;}
+.contone_zbsp p {margin:5px;padding:3px;}
+.contone_ptextzb {width:208px;height:440px;background:#fefefe;border:1px solid #c8c8c8;position:absolute;top:20px;right:32px;text-align:center;}
+.contone_ptextzb p {padding:0 10px;line-height:23px;text-align:left;text-indent:2em;color:#656565;}
+.contone_botomzb {width:750px;height:50px;position:absolute;left:20px;bottom:0;padding-top:20px;}
+.contone_botomzb div {width:720px;height:35px;line-height:35px;text-align:right;position:relative;left:10px;}
+.contone_botomzb span {position:absolute;right:150px;top:20px;}
+
+
+/* 雍禾直播视频模版 视频列表 */
+.yhzbsp_conttwo {width:100%;background:#ffffff;text-align:center;margin-top:-450px;}
+.yhzbsp_conttwo_div {width:1000px;height:145px;margin:0 auto;position:relative;left:0;top:0;}
+.yhzbsp_conttwo .yhzbsp_conttwo_preivew {position:absolute;top:35px;left:0px;cursor:pointer;z-index:100;}
+.yhzbsp_conttwo .yhzbsp_conttwo_next {position:absolute;top:35px;right:0px;cursor:pointer;z-index:100;}
+.yhzbsp_conttwo_main {width:905px;height:135px;margin:0 auto;position:relative;left:0;top:0;overflow:hidden;border:1px solid #e5e5e5;text-align:left;}
+.yhzbsp_conttwo_main ul {position:absolute;left:0;top:0;width:900px;height:135px;}
+.yhzbsp_conttwo_main ul li {float:left;position:relative;top:0;left:0;width:220px;padding:5px;padding-right:0px;}
+.yhzbsp_conttwo_main ul li p {color:#ffffff;text-align:center;line-height:30px;width:220px;height:30px;overflow:hidden;position:relative;left:0;top:-30px;background:#000000;filter:alpha(opacity=50);-moz-opacity:0.5;opacity:0.5;}
+.yhzbsp_conttwo_main ul li img {width:220px;}
+
+.navdivzb {width:1000px;margin:0 auto;text-align:center;}
+
+.commondivzb {width:1000px;margin:0 auto;position:relative;}
+
+.commondiv_list_right_ul2zb {width:300px;position:absolute;top:0;left:0;}
+.commondiv_list_right_ul2zb li {width:300px;margin:10px 0;cursor:pointer;}
+.commondiv_list_right_ul2zb li span {width:290px;height:45px;line-height:45px;padding-left:10px;background-color:#e69c51;display:block;color:#ffffff;font-size:16px;font-family:"Microsoft YaHei";}
+.commondiv_list_right_ul2zb li div {display:none;}
+.commondiv_list_right_ul2zb .list_right_ul2_activelizb span {width:290px;height:45px;line-height:45px;padding-left:10px;background:#2083df;display:block;color:#ffffff;font-size:16px;font-family:"Microsoft YaHei";}
+.commondiv_list_right_ul2zb .list_right_ul2_activelizb div {display:block;}
+.commondiv_list_right_ul2_divzb {width:300px;}
+.commondiv_list_right_ul2_divzb img {width:300px;height:130px;margin:5px 0;}
+.commondiv_list_right_ul2_divzb a {line-height:25px;color:#202020;font-size:14px;font-family:"Microsoft YaHei";}
+.commondiv_list_right_ul2_divzb h3 {height:35px;line-height:35px;color:#0a72dc;font-size:16px;font-family:"Microsoft YaHei";}
+
+
+
+.commondivzbhot {width:1000px;margin:10px auto;position:relative;top:0px;text-align:center;}
+.divzbhotdiv {margin-top:10px;}
+.divzbhotdivcont {width:830px;min-height:200px;margin:0 auto;display:none;}
+.divzbhotdivcont h2 {width:830px;height:50px;line-height:50px;color:#0a59cf;font-family:"Microsoft YaHei";font-weight:bold;font-size:18px;}
+.divzbhotdivcont .hotdivcontp1 {overflow:hidden;text-align:left;text-indent:2em;color:#656565;font-size:13px;line-height:25px;}
+.xialap {width:830px;height:50px;border-bottom:1px dashed #aaaaaa;margin:20px auto;position:relative;}
+.xialap div {width:140px;height:22px;margin:0 auto;background:#fff;position:relative;bottom:-35px;cursor:pointer;}
+.divzbhotul {width:830px;height:200px;margin:0 auto;}
+.divzbhotul li {text-align:left;width:800px;height:30px;margin:0 auto;line-height:30px;overflow:hidden;cursor:pointer;}
+.divzbhotul li:hover {background:#ccc;}
+
+.web_show {width:1060px;margin:0 auto;}
+.web_show .web_showLeft {float:left;margin-right:10px;}
+.web_show .web_showRight {float:left;}
+
+
+
+.commondiv_content_seven_main_one_main_rightulzb {width:300px;position:absolute;top:0;left:350px;}
+.commondiv_content_seven_main_one_main_rightulzb p {display:inline-block;width:130px;color:#0a72dc;font-size:16px;font-family:"Microsoft YaHei";background:url('/statics/images/zhifa_cn_images/n_03.png') no-repeat center left;padding-left:40px;line-height:30px;}
+.commondiv_content_seven_main_one_main_rightulzb ul {width:300px;margin-top:10px;float:right;}
+.commondiv_content_seven_main_one_main_rightulzb ul li {line-height:23px;list-style:square;text-align:left;}
+.commondiv_content_seven_main_one_main_rightulzb ul li a {color:#202020;font-size:14px;font-family:"Microsoft YaHei";}
+
+
+.commondiv_content_three_main_dldivzb {width:300px;height:415px;position:absolute;right:0px;top:0;}
+.commondiv_content_three_main_dlzb {width:300px;height:350px;display:block;margin:20px auto;position:relative;right:0;top:0px;}
+.commondiv_content_three_main_dlzb dt {float:left;width:300px;height:30px;text-align:center;background:url('/statics/images/zhifa_cn_images/n_03.png') no-repeat 5px 5px;color:#000000;font-size:16px;font-family:"Microsoft YaHei";}
+.commondiv_content_three_main_dlzb dd {width:78px;margin:10px;float:left;text-align:center;}
+.commondiv_content_three_main_dlzb dd a b {color:#000000;font-weight:normal;}
+.commondiv_content_three_main_dlzb dd a img {margin:10px 0;}
+
+.productNavzb {width:1000px;position:relative;top:470px;left:0;}
+
+
+
+.divzbhotimg {width:1000px;height:500px;position:relative;top:490px;left:0;}
+.divzbhotimg h3 {height:80px;line-height:80px;font-size:20px;color:#004499;text-align:center;font-weight:bold;}
+.divzbhotimgprve {position:absolute;top:200px;left:0px;cursor:pointer;z-index:100;}
+.divzbhotimgnext {position:absolute;top:200px;right:0px;cursor:pointer;z-index:100;}
+.divzbhotimgcont {width:600px;height:400px;overflow:hidden;margin:0 auto;position:relative;}
+.divzbhotimgcont ul {width:600px;height:400px;position:relative;overflow:hidden;}
+.divzbhotimgcont ul li {float:left;}
+
+
+
 
 
 
@@ -1342,10 +1531,8 @@
 .ztzfyb_onemiddle h3 {color:#0171bd;font-size:18px;font-weight:bold;font-family:"Microsoft YaHei";position:relative;top:-10px;left:50px;z-index:10;background:#fff;width:120px;text-align:center;}
 .ztzfyb_onemiddle .onemiddlep1 {text-align:left;margin-left:10px;width:220px;height:25px;line-height:25px;overflow:hidden;}
 .ztzfyb_onemiddle .onemiddlep1 a {color:#656565;}
-.ztzfyb_onemiddle .onemiddlep2 {text-align:left;margin-left:10px;width:220px;max-height:40px;line-height:20px;overflow:hidden;}
+.ztzfyb_onemiddle .onemiddlep2 {text-align:left;margin-left:10px;width:220px;max-height:100px;line-height:20px;overflow:hidden;}
 .ztzfyb_onemiddle .onemiddlep2 a {color:#656565;}
-.ztzfyb_onemiddle .onemiddlep3 {text-align:left;margin-left:10px;width:220px;max-height:60px;line-height:20px;overflow:hidden;}
-.ztzfyb_onemiddle .onemiddlep3 a {color:#656565;}
 .ztzfyb_onemiddle .onemiddlep4 {text-align:right;margin-right:10px;width:220px;line-height:20px;overflow:hidden;}
 .ztzfyb_onemiddle .onemiddlep4 a {color:#0059ab;}
 
@@ -1376,7 +1563,7 @@
 .twoDiv_top {width:1000px;height:285px;}
 .twoDiv_top .twoDivtopimg {float:left;margin-right:10px;}
 .twoDiv_top .twodivtopp1 {float:left;width:290px;height:35px;overflow:hidden;padding-left:10px;line-height:30px;color:#0171bd;font-size:18px;font-family:"Microsoft YaHei";}
-.twoDiv_top .twodivtopp2 {float:left;width:280px;overflow:hidden;padding-left:10px;line-height:20px;text-indent:2em;}
+.twoDiv_top .twodivtopp2 {float:left;width:280px;height:120px;overflow:hidden;padding-left:10px;line-height:20px;text-indent:2em;}
 .twoDiv_top .twodivtopp2 a {color:#656565;font-size:13px;font-weight:normal;}
 .twoDiv_top .twodivtopp3 {float:left;padding:15px;border-bottom:1px solid #d4d4d4;text-align:center;width:270px;}
 

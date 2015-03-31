@@ -18,7 +18,7 @@ return array (
     'islink' => '0',
     'username' => 'xuxiaobo',
     'inputtime' => '1423015313',
-    'updatetime' => '1423457337',
+    'updatetime' => '1423457504',
   ),
 );
 ?>

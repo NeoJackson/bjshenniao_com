@@ -49,7 +49,7 @@ cmsAD_30.PosID = 30;
 cmsAD_30.ADID = 33; 
 cmsAD_30.ADType = "images"; 
 cmsAD_30.ADName = "专题植发技术banner"; 
-cmsAD_30.ADContent = "{'Images':[{'imgADLinkUrl':'','imgADAlt':'','ImgPath':'http://www.bjshenniao.cn/uploadfile/2015/0306/20150306014425474.jpg'}],'imgADLinkTarget':'New','Count':'1','showAlt':'Y'}"; 
+cmsAD_30.ADContent = "{'Images':[{'imgADLinkUrl':'','imgADAlt':'','ImgPath':'http://www.bjshenniao.cn/uploadfile/2015/0310/20150310044958959.jpg'}],'imgADLinkTarget':'New','Count':'1','showAlt':'Y'}"; 
 cmsAD_30.URL = "http://www.bjshenniao.cn/index.php?m=poster&c=index"; 
 cmsAD_30.SiteID = 1; 
 cmsAD_30.Width = 1920; 

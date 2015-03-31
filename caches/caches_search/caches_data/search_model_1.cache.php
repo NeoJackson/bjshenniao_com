@@ -12,6 +12,18 @@ return array (
     'name' => '专题植发案例模型',
     'sort' => '0',
   ),
+  16 => 
+  array (
+    'typeid' => '58',
+    'name' => '发友案例模型',
+    'sort' => '0',
+  ),
+  17 => 
+  array (
+    'typeid' => '59',
+    'name' => '发友会直播模型',
+    'sort' => '0',
+  ),
   1 => 
   array (
     'typeid' => '1',

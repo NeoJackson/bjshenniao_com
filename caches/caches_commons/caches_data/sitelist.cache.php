@@ -3,12 +3,12 @@ return array (
   1 => 
   array (
     'siteid' => '1',
-    'name' => '默认站点',
+    'name' => '植发_植发医院_头发种植_植发价格_植发效果_雍禾植发医院官',
     'dirname' => '',
     'domain' => 'http://www.bjshenniao.cn/',
-    'site_title' => 'PHPCMS演示站',
-    'keywords' => 'PHPCMS演示站',
-    'description' => 'PHPCMS演示站',
+    'site_title' => '植发_植发医院_头发种植_植发价格_植发效果_雍禾植发医院官网',
+    'keywords' => '植发,头发种植,植发价格,植发效果,植发手术,植发医院,雍禾植发',
+    'description' => '雍禾植发手术一流,植发效果好,植发价格及费用低,已为数万脱发人士提供头发种植服务,完美效果,实惠价格受到发友广泛认可！医院热线: 400-888-6667',
     'release_point' => '',
     'default_style' => 'default',
     'template' => 'default',

@@ -72,7 +72,7 @@ return array (
     'description' => '国内首家植发行业质量标准管理体系，由雍禾植发医疗机构于２０１０年１２月提出，北京雍禾植发制定的《植发技术的研发与技术服务》质量标准   ',
     'posids' => '0',
     'url' => 'http://www.bjshenniao.cn/qwzzrz/0205_343.html',
-    'listorder' => '0',
+    'listorder' => '1',
     'status' => '99',
     'sysadd' => '1',
     'islink' => '0',
