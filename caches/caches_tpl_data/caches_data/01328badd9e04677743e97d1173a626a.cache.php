@@ -1,5 +1,6 @@
 <?php
 return array (
+<<<<<<< HEAD
   18 => 
   array (
     'id' => '18',
@@ -11,6 +12,12 @@ return array (
 <br />
 孙劲松经常往返于合肥和北京两地，通过阶段性的跟踪观察，我们明显看见下面让我们一起跟踪孙先生的植发全过程，让大家对植发有一个全面的了解。<br />
 ',
+=======
+  4 => 
+  array (
+    'id' => '4',
+    'content' => '<span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span>',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'readpoint' => '0',
     'groupids_view' => '',
     'paginationtype' => '0',
@@ -19,6 +26,7 @@ return array (
     'paytype' => '0',
     'allow_comment' => '1',
     'relation' => '',
+<<<<<<< HEAD
     'xinming' => '孙劲松',
     'nianling' => '37',
     'zhiye' => '工程师',
@@ -43,13 +51,45 @@ return array (
     'description' => '孙劲松是房地产行业的高级工程师，随着房地产行业遇冷，工作压力比较大，一直以来的脱发问题让他的头顶都快变成秃顶了，为了让你自己的头发',
     'posids' => '0',
     'url' => 'http://www.bjshenniao.cn/5jizhifaal/0309_18.html',
+=======
+    'xinming' => '这是姓名',
+    'nianling' => '23',
+    'zhiye' => '教师',
+    'tuofajibie' => '四级',
+    'shiyongjishu' => 'LATTICE 点阵加密植发技术',
+    'zhongzhidanwei' => '2300单位',
+    'zhifashijian' => '2015年04月15日',
+    'zhifazhuanjia' => '王传凯',
+    'qianimg1' => 'http://www.bjshenniao.cn/uploadfile/2015/0228/20150228011345968.jpg',
+    'qianimg2' => 'http://www.bjshenniao.cn/uploadfile/2015/0228/20150228011355366.jpg',
+    'houimg1' => 'http://www.bjshenniao.cn/uploadfile/2015/0228/20150228011404328.jpg',
+    'houimg2' => 'http://www.bjshenniao.cn/uploadfile/2015/0228/20150228011345968.jpg',
+    'huanzheganyan' => '患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事',
+    'huanzhegushi' => '患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事',
+    'qhimg' => '',
+    'catid' => '80',
+    'typeid' => '0',
+    'title' => '5级植发案例标题一',
+    'style' => '',
+    'thumb' => 'http://www.bjshenniao.cn/uploadfile/2015/0228/20150228011535352.jpg',
+    'keywords' => '植发 案例 标题',
+    'description' => '5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一5级植发案例标题一',
+    'posids' => '0',
+    'url' => 'http://www.bjshenniao.cn/5jizhifaal/0228_4.html',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'listorder' => '0',
     'status' => '99',
     'sysadd' => '1',
     'islink' => '0',
+<<<<<<< HEAD
     'username' => 'xuxiaobo',
     'inputtime' => '1425869155',
     'updatetime' => '1426554990',
+=======
+    'username' => 'zhifa_cn',
+    'inputtime' => '1425100737',
+    'updatetime' => '1425100791',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
   ),
 );
 ?>

@@ -143,7 +143,11 @@ return array (
     'tips' => '',
     'css' => '',
     'minlength' => '0',
+<<<<<<< HEAD
     'maxlength' => '1555',
+=======
+    'maxlength' => '800',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'pattern' => '',
     'errortips' => '',
     'formtype' => 'textarea',
@@ -468,6 +472,7 @@ return array (
     'defaultvalue' => '',
     'ispassword' => '0',
   ),
+<<<<<<< HEAD
   'huanzhegushi' => 
   array (
     'fieldid' => '228',
@@ -487,6 +492,31 @@ return array (
   \'height\' => \'46\',
   \'defaultvalue\' => \'\',
   \'enablehtml\' => \'0\',
+=======
+  'qhimg' => 
+  array (
+    'fieldid' => '233',
+    'modelid' => '15',
+    'siteid' => '1',
+    'field' => 'qhimg',
+    'name' => '前后照片',
+    'tips' => '',
+    'css' => '',
+    'minlength' => '0',
+    'maxlength' => '0',
+    'pattern' => '',
+    'errortips' => '',
+    'formtype' => 'image',
+    'setting' => 'array (
+  \'size\' => \'\',
+  \'defaultvalue\' => \'\',
+  \'show_type\' => \'0\',
+  \'upload_allowext\' => \'gif|jpg|jpeg|png|bmp\',
+  \'watermark\' => \'0\',
+  \'isselectimage\' => \'1\',
+  \'images_width\' => \'\',
+  \'images_height\' => \'\',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
 )',
     'formattribute' => '',
     'unsetgroupids' => '',
@@ -497,11 +527,16 @@ return array (
     'isbase' => '1',
     'issearch' => '0',
     'isadd' => '1',
+<<<<<<< HEAD
     'isfulltext' => '1',
+=======
+    'isfulltext' => '0',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'isposition' => '1',
     'listorder' => '10',
     'disabled' => '0',
     'isomnipotent' => '0',
+<<<<<<< HEAD
     'width' => '100',
     'height' => '46',
     'defaultvalue' => '',
@@ -514,6 +549,24 @@ return array (
     'siteid' => '1',
     'field' => 'huanzheganyan',
     'name' => '患者感言',
+=======
+    'size' => '',
+    'defaultvalue' => '',
+    'show_type' => '0',
+    'upload_allowext' => 'gif|jpg|jpeg|png|bmp',
+    'watermark' => '0',
+    'isselectimage' => '1',
+    'images_width' => '',
+    'images_height' => '',
+  ),
+  'huanzhegushi' => 
+  array (
+    'fieldid' => '232',
+    'modelid' => '15',
+    'siteid' => '1',
+    'field' => 'huanzhegushi',
+    'name' => '患者故事',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'tips' => '',
     'css' => '',
     'minlength' => '0',
@@ -538,7 +591,11 @@ return array (
     'isadd' => '1',
     'isfulltext' => '1',
     'isposition' => '1',
+<<<<<<< HEAD
     'listorder' => '10',
+=======
+    'listorder' => '11',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'disabled' => '0',
     'isomnipotent' => '0',
     'width' => '100',
@@ -546,6 +603,7 @@ return array (
     'defaultvalue' => '',
     'enablehtml' => '0',
   ),
+<<<<<<< HEAD
   'qhimg' => 
   array (
     'fieldid' => '230',
@@ -569,6 +627,27 @@ return array (
   \'isselectimage\' => \'1\',
   \'images_width\' => \'\',
   \'images_height\' => \'\',
+=======
+  'huanzheganyan' => 
+  array (
+    'fieldid' => '231',
+    'modelid' => '15',
+    'siteid' => '1',
+    'field' => 'huanzheganyan',
+    'name' => '患者感言',
+    'tips' => '',
+    'css' => '',
+    'minlength' => '0',
+    'maxlength' => '800',
+    'pattern' => '',
+    'errortips' => '',
+    'formtype' => 'textarea',
+    'setting' => 'array (
+  \'width\' => \'100\',
+  \'height\' => \'46\',
+  \'defaultvalue\' => \'\',
+  \'enablehtml\' => \'0\',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
 )',
     'formattribute' => '',
     'unsetgroupids' => '',
@@ -579,6 +658,7 @@ return array (
     'isbase' => '1',
     'issearch' => '0',
     'isadd' => '1',
+<<<<<<< HEAD
     'isfulltext' => '0',
     'isposition' => '1',
     'listorder' => '10',
@@ -592,6 +672,17 @@ return array (
     'isselectimage' => '1',
     'images_width' => '',
     'images_height' => '',
+=======
+    'isfulltext' => '1',
+    'isposition' => '1',
+    'listorder' => '11',
+    'disabled' => '0',
+    'isomnipotent' => '0',
+    'width' => '100',
+    'height' => '46',
+    'defaultvalue' => '',
+    'enablehtml' => '0',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
   ),
   'updatetime' => 
   array (

@@ -18,7 +18,11 @@ return array (
     'islink' => '0',
     'username' => 'xuxiaobo',
     'inputtime' => '1423015669',
+<<<<<<< HEAD
     'updatetime' => '1423457513',
+=======
+    'updatetime' => '1423457349',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
   ),
   101 => 
   array (
@@ -38,7 +42,11 @@ return array (
     'islink' => '0',
     'username' => 'xuxiaobo',
     'inputtime' => '1423013060',
+<<<<<<< HEAD
     'updatetime' => '1423457520',
+=======
+    'updatetime' => '1423457359',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
   ),
 );
 ?>

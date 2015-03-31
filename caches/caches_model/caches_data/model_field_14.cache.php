@@ -143,7 +143,11 @@ return array (
     'tips' => '',
     'css' => '',
     'minlength' => '0',
+<<<<<<< HEAD
     'maxlength' => '1555',
+=======
+    'maxlength' => '855',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'pattern' => '',
     'errortips' => '',
     'formtype' => 'textarea',

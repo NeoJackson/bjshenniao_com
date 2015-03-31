@@ -48,8 +48,13 @@ var cmsAD_31 = new PCMSAD('cmsAD_31');
 cmsAD_31.PosID = 31; 
 cmsAD_31.ADID = 34; 
 cmsAD_31.ADType = "images"; 
+<<<<<<< HEAD
 cmsAD_31.ADName = "专题北京院部banner"; 
 cmsAD_31.ADContent = "{'Images':[{'imgADLinkUrl':'','imgADAlt':'','ImgPath':'http://www.bjshenniao.cn/uploadfile/2015/0320/20150320052029484.jpg'}],'imgADLinkTarget':'New','Count':'1','showAlt':'Y'}"; 
+=======
+cmsAD_31.ADName = "专题植发院部banner"; 
+cmsAD_31.ADContent = "{'Images':[{'imgADLinkUrl':'','imgADAlt':'','ImgPath':'http://www.bjshenniao.cn/uploadfile/2015/0312/20150312042306981.jpg'}],'imgADLinkTarget':'New','Count':'1','showAlt':'Y'}"; 
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
 cmsAD_31.URL = "http://www.bjshenniao.cn/index.php?m=poster&c=index"; 
 cmsAD_31.SiteID = 1; 
 cmsAD_31.Width = 1660; 

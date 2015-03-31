@@ -1,5 +1,6 @@
 <?php
 return array (
+<<<<<<< HEAD
   490 => 
   array (
     'id' => '490',
@@ -16,18 +17,29 @@ return array (
 　　最终，我决定去雍禾植发去掉自己的一块心病。于2014年7月22日，踏入了北京雍禾总部，找到了中国资深植发专家李建新主任，经专家介绍，我这种属于发际线后退，头发稀疏者，最终在专家的检测和设计后，采用了FUE-APL2.0移植3500毛囊单位，并采用LATTICE点阵加密植发技术。<br />
 <img alt="" src="http://www.bjshenniao.cn/uploadfile/2015/0318/20150318040539950.jpg" style="width: 300px; height: 279px;" /><br />
 ',
+=======
+  428 => 
+  array (
+    'id' => '428',
+    'content' => '标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'readpoint' => '0',
     'groupids_view' => '',
     'paginationtype' => '0',
     'maxcharperpage' => '10000',
     'template' => '',
     'paytype' => '0',
+<<<<<<< HEAD
     'relation' => '',
+=======
+    'relation' => '101|102|103',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'voteid' => '0',
     'allow_comment' => '1',
     'copyfrom' => '|0',
     'catid' => '102',
     'typeid' => '0',
+<<<<<<< HEAD
     'title' => '每天都在掉发，让我情何以堪？',
     'style' => '',
     'thumb' => '',
@@ -35,10 +47,20 @@ return array (
     'description' => '　　本人今年35岁，事业刚刚稍有起色，从业务员到业务经理再到区域总监，一路走来，包含了所有的辛酸和痛苦，但如今拥有了可爱的宝贝儿子和   ',
     'posids' => '0',
     'url' => 'http://www.bjshenniao.cn/fygw/0318_490.html',
+=======
+    'title' => '标题七标题七标题七',
+    'style' => '',
+    'thumb' => 'http://www.bjshenniao.cn/uploadfile/2015/0310/20150310043217339.jpg',
+    'keywords' => '标题',
+    'description' => '标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七标题七',
+    'posids' => '0',
+    'url' => 'http://www.bjshenniao.cn/fygw/0310_428.html',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'listorder' => '0',
     'status' => '99',
     'sysadd' => '1',
     'islink' => '0',
+<<<<<<< HEAD
     'username' => 'xuxiaobo',
     'inputtime' => '1426665899',
     'updatetime' => '1426665943',
@@ -64,18 +86,33 @@ return array (
 （配图，手术前照片）&nbsp;VS&nbsp;&nbsp;（配图，手术后半年照片）<br />
 <img alt="" src="http://www.bjshenniao.cn/uploadfile/2015/0318/20150318040432462.jpg" style="width: 300px; height: 279px;" /><br />
 ',
+=======
+    'username' => 'zhifa_cn',
+    'inputtime' => '1425976552',
+    'updatetime' => '1425976579',
+  ),
+  424 => 
+  array (
+    'id' => '424',
+    'content' => '标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'readpoint' => '0',
     'groupids_view' => '',
     'paginationtype' => '0',
     'maxcharperpage' => '10000',
     'template' => '',
     'paytype' => '0',
+<<<<<<< HEAD
     'relation' => '',
+=======
+    'relation' => '101|102|103',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'voteid' => '0',
     'allow_comment' => '1',
     'copyfrom' => '|0',
     'catid' => '102',
     'typeid' => '0',
+<<<<<<< HEAD
     'title' => '谢顶的恐惧叩开植发的大门',
     'style' => '',
     'thumb' => '',
@@ -83,10 +120,20 @@ return array (
     'description' => '自从上海师范大学毕业后我就回到贵阳一所学校教书，深得学生们的喜欢与支持。然而自己心中有件事却开心不起来，因为在第二个学期的期末考试   ',
     'posids' => '0',
     'url' => 'http://www.bjshenniao.cn/fygw/0318_489.html',
+=======
+    'title' => '标题六标题六标题六标题六标题六标题六',
+    'style' => '',
+    'thumb' => 'http://www.bjshenniao.cn/uploadfile/2015/0310/20150310043310824.jpg',
+    'keywords' => '标题',
+    'description' => '标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六标题六',
+    'posids' => '0',
+    'url' => 'http://www.bjshenniao.cn/fygw/0310_424.html',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'listorder' => '0',
     'status' => '99',
     'sysadd' => '1',
     'islink' => '0',
+<<<<<<< HEAD
     'username' => 'xuxiaobo',
     'inputtime' => '1426665825',
     'updatetime' => '1426665877',
@@ -104,18 +151,33 @@ return array (
 　　鬓角种植手术结束后，我也经常电话和医生沟通，一方面是咨询注意事项，一方面是向医生反映恢复情况。大概三个月左右，鬓角移植效果初显，移植的毛囊长出新头发，大概七个月时，效果完全显现。如今，我的鬓角缺失部位已经长出健康、自然的毛发。整个人看上去都神采奕奕的，周围朋友都夸我更加帅气有型了!<br />
 <img alt="" src="http://www.bjshenniao.cn/uploadfile/2015/0318/20150318040245650.jpg" style="width: 300px; height: 279px;" /><br />
 ',
+=======
+    'username' => 'zhifa_cn',
+    'inputtime' => '1425976519',
+    'updatetime' => '1425976548',
+  ),
+  419 => 
+  array (
+    'id' => '419',
+    'content' => '标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'readpoint' => '0',
     'groupids_view' => '',
     'paginationtype' => '0',
     'maxcharperpage' => '10000',
     'template' => '',
     'paytype' => '0',
+<<<<<<< HEAD
     'relation' => '',
+=======
+    'relation' => '102|103',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'voteid' => '0',
     'allow_comment' => '1',
     'copyfrom' => '|0',
     'catid' => '102',
     'typeid' => '0',
+<<<<<<< HEAD
     'title' => '事业受阻，我该怎么办？',
     'style' => '',
     'thumb' => '',
@@ -123,10 +185,20 @@ return array (
     'description' => '　　我今年27岁，刚刚大学毕业不到两年，在校时是一名优秀的学生，毕业后便顺利的进入一家知名度很高的大企业工作。但是工作期间却面临诸多   ',
     'posids' => '0',
     'url' => 'http://www.bjshenniao.cn/fygw/0318_488.html',
+=======
+    'title' => '标题四标题四标题四标题四标题四标题四',
+    'style' => '',
+    'thumb' => 'http://www.bjshenniao.cn/uploadfile/2015/0310/20150310043426320.jpg',
+    'keywords' => '标题',
+    'description' => '标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四标题四',
+    'posids' => '0',
+    'url' => 'http://www.bjshenniao.cn/fygw/0310_419.html',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'listorder' => '0',
     'status' => '99',
     'sysadd' => '1',
     'islink' => '0',
+<<<<<<< HEAD
     'username' => 'xuxiaobo',
     'inputtime' => '1426665676',
     'updatetime' => '1426665775',
@@ -144,18 +216,33 @@ return array (
 <img alt="" src="http://www.bjshenniao.cn/uploadfile/2015/0318/20150318040018328.jpg" style="width: 300px; height: 279px;" /><br />
 &nbsp; &nbsp;<br />
 ',
+=======
+    'username' => 'zhifa_cn',
+    'inputtime' => '1425976436',
+    'updatetime' => '1425976470',
+  ),
+  416 => 
+  array (
+    'id' => '416',
+    'content' => '标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'readpoint' => '0',
     'groupids_view' => '',
     'paginationtype' => '0',
     'maxcharperpage' => '10000',
     'template' => '',
     'paytype' => '0',
+<<<<<<< HEAD
     'relation' => '',
+=======
+    'relation' => '102|103',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'voteid' => '0',
     'allow_comment' => '1',
     'copyfrom' => '|0',
     'catid' => '102',
     'typeid' => '0',
+<<<<<<< HEAD
     'title' => '是美人怎能少了美人尖',
     'style' => '',
     'thumb' => '',
@@ -163,13 +250,28 @@ return array (
     'description' => '　　最先知道女士美人尖这词是缘于一位大学同学，撸上她的留海长发，便能看见额上中部头发尖尖地突出，真如鸟喙。我的这位同学亦的确长得美   ',
     'posids' => '0',
     'url' => 'http://www.bjshenniao.cn/fygw/0318_487.html',
+=======
+    'title' => '标题三标题三标题三标题三标题三标题三标题三标题三标题',
+    'style' => '',
+    'thumb' => 'http://www.bjshenniao.cn/uploadfile/2015/0310/20150310043347593.jpg',
+    'keywords' => '标题',
+    'description' => '标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三标题三',
+    'posids' => '0',
+    'url' => 'http://www.bjshenniao.cn/fygw/0310_416.html',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'listorder' => '0',
     'status' => '99',
     'sysadd' => '1',
     'islink' => '0',
+<<<<<<< HEAD
     'username' => 'xuxiaobo',
     'inputtime' => '1426665582',
     'updatetime' => '1426665630',
+=======
+    'username' => 'zhifa_cn',
+    'inputtime' => '1425976397',
+    'updatetime' => '1425976430',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
   ),
 );
 ?>

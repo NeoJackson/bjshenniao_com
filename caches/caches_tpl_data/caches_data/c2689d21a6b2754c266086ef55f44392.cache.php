@@ -1,11 +1,18 @@
 <?php
 return array (
+<<<<<<< HEAD
   441 => 
   array (
     'id' => '441',
     'content' => '我是2013年10月份在北京雍禾做的发际线调整手术，距离现在已经有八个月时间了。首先我本人并不是脱发，而是天生的发际线过高，赤裸裸的大脑门令我苦恼。我是一个爱美的人，生活中的自己也经常追求完美，对于这个大脑门我不甘心总是通过留刘海来遮盖它，网上有句话说，敢留寸头的男生才是最帅的，所以我也不甘总是一种发型。<br />
 有一天在微博上看到北京雍禾可以植发，可以调整发际线，真是感叹于医疗的先进，连天生大脑门都可以解决。<br />
 ',
+=======
+  361 => 
+  array (
+    'id' => '361',
+    'content' => '头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四头&ldquo;顶&rdquo;大事莫等闲标题四',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'readpoint' => '0',
     'groupids_view' => '',
     'paginationtype' => '0',
@@ -18,6 +25,7 @@ return array (
     'copyfrom' => '|0',
     'catid' => '91',
     'typeid' => '0',
+<<<<<<< HEAD
     'title' => '天生大脑门可以解决的',
     'style' => '',
     'thumb' => 'http://www.bjshenniao.cn/uploadfile/2015/0309/20150309020250526.jpg',
@@ -26,10 +34,20 @@ return array (
 有一天在微博上看到北京雍禾可以植发，可以调整发际线，真是感叹于医疗的先进，连天生大脑门都可以解决。',
     'posids' => '0',
     'url' => 'http://www.bjshenniao.cn/zbbf/0309_441.html',
+=======
+    'title' => '头“顶”大事莫等闲标题四',
+    'style' => '',
+    'thumb' => 'http://www.bjshenniao.cn/uploadfile/2015/0228/20150228011345968.jpg',
+    'keywords' => '大事 标题',
+    'description' => '头“顶”大事莫等闲标题四头“顶”大事莫等闲标题四头“顶”大事莫等闲标题四头“顶”大事莫等闲标题四头“顶”大事莫等闲标题四头“顶”大事莫等闲标题四头“顶”大事莫等闲标题四头“顶”大事莫等闲标题四头“顶”大事莫等闲标题四头“顶”大事莫等闲标题四头“顶”大事莫等闲标题四头“顶”大事莫等闲标题四头“顶”大事莫等闲标题四',
+    'posids' => '0',
+    'url' => 'http://www.bjshenniao.cn/zbbf/0228_361.html',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'listorder' => '0',
     'status' => '99',
     'sysadd' => '1',
     'islink' => '0',
+<<<<<<< HEAD
     'username' => 'xuxiaobo',
     'inputtime' => '1425880941',
     'updatetime' => '1426656798',
@@ -39,6 +57,16 @@ return array (
     'id' => '440',
     'content' => '非常感谢雍禾植发医生给我做了植发手术，现在是术后1年，自然的发际线和一头浓密的头发，和1年前的我完全判若两人，老实讲刚刚做完手术我也没有想到效果会这么好，术后一个月脱发期，移植的头发开始脱落，很担心的，现在头发一天比一天多，好开心呀，感谢雍禾的植发医生们！<br />
 ',
+=======
+    'username' => 'zhifa_cn',
+    'inputtime' => '1425101666',
+    'updatetime' => '1425101683',
+  ),
+  360 => 
+  array (
+    'id' => '360',
+    'content' => '头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三头&ldquo;顶&rdquo;大事莫等闲标题三',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'readpoint' => '0',
     'groupids_view' => '',
     'paginationtype' => '0',
@@ -51,6 +79,7 @@ return array (
     'copyfrom' => '|0',
     'catid' => '91',
     'typeid' => '0',
+<<<<<<< HEAD
     'title' => '发际线自然头发浓密',
     'style' => '',
     'thumb' => 'http://www.bjshenniao.cn/uploadfile/2015/0309/20150309020205440.jpg',
@@ -58,10 +87,20 @@ return array (
     'description' => '非常感谢雍禾植发医生给我做了植发手术，现在是术后1年，自然的发际线和一头浓密的头发，和1年前的我完全判若两人，老实讲刚刚做完手术我也没有想到效果会这么好，术后一个月脱发期，移植的头发开始脱落，很担心的，现在头发一天比一天多，好开心呀，感谢雍禾的植发医生们！',
     'posids' => '0',
     'url' => 'http://www.bjshenniao.cn/zbbf/0309_440.html',
+=======
+    'title' => '头“顶”大事莫等闲标题三',
+    'style' => '',
+    'thumb' => 'http://www.bjshenniao.cn/uploadfile/2015/0228/20150228011418528.jpg',
+    'keywords' => '大事 标题',
+    'description' => '头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“顶”大事莫等闲标题三头“',
+    'posids' => '0',
+    'url' => 'http://www.bjshenniao.cn/zbbf/0228_360.html',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'listorder' => '0',
     'status' => '99',
     'sysadd' => '1',
     'islink' => '0',
+<<<<<<< HEAD
     'username' => 'xuxiaobo',
     'inputtime' => '1425880902',
     'updatetime' => '1426656851',
@@ -71,6 +110,16 @@ return array (
     'id' => '439',
     'content' => '我是高中学生，小时候头皮有一块疤痕性秃发区，使我非常自卑，总是留长头发遮盖我的疤痕，在高二的时候我妈妈带我找到王永医生，在王医生那做的手术，现在是术后一年，我的疤痕上已经长出头发，完全看不出疤痕了，我的学习成绩也上升了，恢复了自信，感谢雍禾的医生，祝您们新年快乐！<br />
 ',
+=======
+    'username' => 'zhifa_cn',
+    'inputtime' => '1425101641',
+    'updatetime' => '1425101660',
+  ),
+  359 => 
+  array (
+    'id' => '359',
+    'content' => '头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二头&ldquo;顶&rdquo;大事莫等闲标题二',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'readpoint' => '0',
     'groupids_view' => '',
     'paginationtype' => '0',
@@ -83,6 +132,7 @@ return array (
     'copyfrom' => '|0',
     'catid' => '91',
     'typeid' => '0',
+<<<<<<< HEAD
     'title' => '我的疤痕上长出头发了',
     'style' => '',
     'thumb' => 'http://www.bjshenniao.cn/uploadfile/2015/0309/20150309020117177.jpg',
@@ -90,10 +140,20 @@ return array (
     'description' => '我是高中学生，小时候头皮有一块疤痕性秃发区，使我非常自卑，总是留长头发遮盖我的疤痕，在高二的时候我妈妈带我找到王永医生，在王医生那做的手术，现在是术后一年，我的疤痕上已经长出头发，完全看不出疤痕了，我的学习成绩也上升了，恢复了自信，感谢雍禾的医生，祝您们新年快乐！',
     'posids' => '0',
     'url' => 'http://www.bjshenniao.cn/zbbf/0309_439.html',
+=======
+    'title' => '头“顶”大事莫等闲标题二',
+    'style' => '',
+    'thumb' => 'http://www.bjshenniao.cn/uploadfile/2015/0228/20150228011404328.jpg',
+    'keywords' => '大事 标题',
+    'description' => '头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“顶”大事莫等闲标题二头“',
+    'posids' => '0',
+    'url' => 'http://www.bjshenniao.cn/zbbf/0228_359.html',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'listorder' => '0',
     'status' => '99',
     'sysadd' => '1',
     'islink' => '0',
+<<<<<<< HEAD
     'username' => 'xuxiaobo',
     'inputtime' => '1425880836',
     'updatetime' => '1426656862',
@@ -103,6 +163,16 @@ return array (
     'id' => '438',
     'content' => '我的眉毛先天性稀疏，几乎忽略不计，纹绣过，不自然，又洗眉了，最后选择植眉，原本非常忐忑，找到了雍禾植发专家，在规定的手术日，雍禾专家非常耐心的帮助我术前设计，然后是打麻药，有点小痛，可以忍受的，整个手术时间比较长，大概是5小时，术后照镜子的时候，我非常满意，雍禾的专家很有耐心，这么长时间的手术，一直低头给我认真植眉，太值得敬佩了，手术做得太好了，给我漂亮的眉毛，完全看不出是移植的眉毛，非常自然，感觉整个人都更加有气质了，有自信了。<br />
 ',
+=======
+    'username' => 'zhifa_cn',
+    'inputtime' => '1425101618',
+    'updatetime' => '1425101638',
+  ),
+  358 => 
+  array (
+    'id' => '358',
+    'content' => '头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一头&ldquo;顶&rdquo;大事莫等闲标题一',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'readpoint' => '0',
     'groupids_view' => '',
     'paginationtype' => '0',
@@ -115,6 +185,7 @@ return array (
     'copyfrom' => '|0',
     'catid' => '91',
     'typeid' => '0',
+<<<<<<< HEAD
     'title' => '完全看不出是移植的眉毛',
     'style' => '',
     'thumb' => 'http://www.bjshenniao.cn/uploadfile/2015/0309/20150309015905345.jpg',
@@ -122,10 +193,20 @@ return array (
     'description' => '我的眉毛先天性稀疏，几乎忽略不计，纹绣过，不自然，又洗眉了，最后选择植眉，原本非常忐忑，找到了雍禾植发专家，在规定的手术日，雍禾专家非常耐心的帮助我术前设计，然后是打麻药，有点小痛，可以忍受的，整个手术时间比较长，大概是5小时，术后照镜子的时候，我非常满意，雍禾的专家很有耐心，这么长时间的手术，一直低头给我认真植眉，太值得敬佩了，手术做得太好了，给我漂亮的眉毛，完全看不出是移植的眉毛，非常自然，感觉整个人都更加有气质了，有自信了。',
     'posids' => '0',
     'url' => 'http://www.bjshenniao.cn/zbbf/0309_438.html',
+=======
+    'title' => '头“顶”大事莫等闲标题一',
+    'style' => '',
+    'thumb' => 'http://www.bjshenniao.cn/uploadfile/2015/0228/20150228011345968.jpg',
+    'keywords' => '大事 标题',
+    'description' => '头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“顶”大事莫等闲标题一头“',
+    'posids' => '0',
+    'url' => 'http://www.bjshenniao.cn/zbbf/0228_358.html',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'listorder' => '0',
     'status' => '99',
     'sysadd' => '1',
     'islink' => '0',
+<<<<<<< HEAD
     'username' => 'xuxiaobo',
     'inputtime' => '1425880722',
     'updatetime' => '1426656883',
@@ -258,6 +339,11 @@ return array (
     'username' => 'xuxiaobo',
     'inputtime' => '1425880526',
     'updatetime' => '1426657014',
+=======
+    'username' => 'zhifa_cn',
+    'inputtime' => '1425101569',
+    'updatetime' => '1425101612',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
   ),
 );
 ?>

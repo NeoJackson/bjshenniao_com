@@ -72,5 +72,17 @@ return array (
     'urlrule' => 'list-{$catid}-{$page}.html',
     'example' => 'list-1-1.html',
   ),
+<<<<<<< HEAD
+=======
+  31 => 
+  array (
+    'urlruleid' => '31',
+    'module' => 'special',
+    'file' => 'zhuantiurl',
+    'ishtml' => '1',
+    'urlrule' => '{$categorydir}_{$catdir}/{$year}_{$month}_{$day}_{$id}.html',
+    'example' => 'zt_zfjs/2015_02_25_1.html',
+  ),
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
 );
 ?>

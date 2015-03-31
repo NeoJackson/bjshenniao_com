@@ -49,7 +49,11 @@ cmsAD_29.PosID = 29;
 cmsAD_29.ADID = 32; 
 cmsAD_29.ADType = "images"; 
 cmsAD_29.ADName = "专题雍禾团队banner"; 
+<<<<<<< HEAD
 cmsAD_29.ADContent = "{'Images':[{'imgADLinkUrl':'','imgADAlt':'','ImgPath':'http://www.bjshenniao.cn/uploadfile/2015/0304/20150304052556698.jpg'}],'imgADLinkTarget':'New','Count':'1','showAlt':'Y'}"; 
+=======
+cmsAD_29.ADContent = "{'Images':[{'imgADLinkUrl':'','imgADAlt':'','ImgPath':'http://www.bjshenniao.cn/uploadfile/2015/0302/20150302030447274.jpg'}],'imgADLinkTarget':'New','Count':'1','showAlt':'Y'}"; 
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
 cmsAD_29.URL = "http://www.bjshenniao.cn/index.php?m=poster&c=index"; 
 cmsAD_29.SiteID = 1; 
 cmsAD_29.Width = 1660; 

@@ -1,5 +1,6 @@
 <?php
 return array (
+<<<<<<< HEAD
   27 => 
   array (
     'id' => '27',
@@ -11,6 +12,12 @@ return array (
 <br />
 到了雍禾植发以后，才知道FUE-APL2.0无痕毛发移植，是一种通过精细设备从供体区（比如脑后枕部等）取得毛囊，应用精密种植器械进行无痕种植的最新方法，是目前世界上对毛囊伤害最小的毛发移植手术。经过医生的详细介绍，结合我自己的脸型、我选择了适合自己的美人尖，医生提前在额头画出你想要的美人尖效果，再在种植区域进行种植，没想到手术一切如此顺利。<br />
 ',
+=======
+  13 => 
+  array (
+    'id' => '13',
+    'content' => '<span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span><span style="color: rgb(119, 119, 119); font-family: tahoma, arial, 宋体, sans-serif; line-height: 18px; text-align: right;">患者故事</span>',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'readpoint' => '0',
     'groupids_view' => '',
     'paginationtype' => '0',
@@ -19,6 +26,7 @@ return array (
     'paytype' => '0',
     'allow_comment' => '1',
     'relation' => '',
+<<<<<<< HEAD
     'xinming' => '胡小姐',
     'nianling' => '32',
     'zhiye' => '客服主管',
@@ -43,13 +51,45 @@ return array (
     'description' => '最先知道女士美人尖这词是缘于一位大学同学，撸上她的留海长发，便能看见额上中部头发尖尖地突出，真如鸟喙。我的这位同学亦的确长得美，大',
     'posids' => '0',
     'url' => 'http://www.bjshenniao.cn/mrjzzal/0309_27.html',
+=======
+    'xinming' => '这是姓名',
+    'nianling' => '23',
+    'zhiye' => '酒吧老板',
+    'tuofajibie' => '二级',
+    'shiyongjishu' => 'LATTICE 点阵加密植发技术',
+    'zhongzhidanwei' => '1600单位',
+    'zhifashijian' => '2015年04月15日',
+    'zhifazhuanjia' => '李炳双专家',
+    'qianimg1' => 'http://www.bjshenniao.cn/uploadfile/2015/0228/20150228011345968.jpg',
+    'qianimg2' => 'http://www.bjshenniao.cn/uploadfile/2015/0228/20150228011404328.jpg',
+    'houimg1' => 'http://www.bjshenniao.cn/uploadfile/2015/0228/20150228011404328.jpg',
+    'houimg2' => 'http://www.bjshenniao.cn/uploadfile/2015/0228/20150228011418528.jpg',
+    'huanzheganyan' => '患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事',
+    'huanzhegushi' => '患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事患者故事',
+    'qhimg' => '',
+    'catid' => '89',
+    'typeid' => '0',
+    'title' => '美人尖种植案例标题一美人尖种植案例标题一',
+    'style' => '',
+    'thumb' => 'http://www.bjshenniao.cn/uploadfile/2015/0228/20150228011535352.jpg',
+    'keywords' => '美人 案例 标题',
+    'description' => '美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一美人尖种植案例标题一',
+    'posids' => '0',
+    'url' => 'http://www.bjshenniao.cn/mrjzzal/0228_13.html',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
     'listorder' => '0',
     'status' => '99',
     'sysadd' => '1',
     'islink' => '0',
+<<<<<<< HEAD
     'username' => 'xuxiaobo',
     'inputtime' => '1425877945',
     'updatetime' => '1426555135',
+=======
+    'username' => 'zhifa_cn',
+    'inputtime' => '1425101321',
+    'updatetime' => '1425101371',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
   ),
 );
 ?>

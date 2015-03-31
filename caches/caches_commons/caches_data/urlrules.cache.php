@@ -8,5 +8,9 @@ return array (
   17 => 'show-{$catid}-{$id}-{$page}.html',
   18 => 'content-{$catid}-{$id}-{$page}.html',
   30 => 'list-{$catid}-{$page}.html',
+<<<<<<< HEAD
+=======
+  31 => '{$categorydir}_{$catdir}/{$year}_{$month}_{$day}_{$id}.html',
+>>>>>>> 23766b7eb7c7b145711b31b202e6802509a035fc
 );
 ?>
